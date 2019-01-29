@@ -5,46 +5,60 @@ using System;
 
 public class playermovement : MonoBehaviour
 {
-    public float speed;
-    //    public Rigidbody rb;
-    public Animator playAnim;
 
-    private void Start()
+    public CharacterController cc;
+    public Animator playAnim;
+    public float speed = 10;
+    public Transform cam;
+    public float pitch = 0;
+    //jump stuff
+//    public float yspeed = 2.0317f;
+//    public float gravity = -15;
+
+    void Start()
     {
+        cc = GetComponent<CharacterController>();
         playAnim = GetComponent<Animator>();
     }
 
-    // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey("d"))
-        {
-            transform.Translate(speed * Time.deltaTime, 0, 0);
+        float xInput = Input.GetAxis("Horizontal") * speed;
+        float zInput = Input.GetAxis("Vertical") * speed;
+
+        Vector3 move = new Vector3(xInput, 0, zInput);
+        move = Vector3.ClampMagnitude(move, speed);
+        move = transform.TransformVector(move);
+//        if (cc.isGrounded)
+//        {
+//            if (Input.GetButtonDown("Jump"))
+//            {
+//                yspeed = 15;
+//            }
+//            else
+//            {
+//                yspeed = gravity * Time.deltaTime;
+//            }
+//        }
+//        else
+//        {
+//            yspeed += gravity * Time.deltaTime;
+//        }
+        if(xInput!=0 || zInput != 0) {
             playAnim.SetBool("walking", true);
+            cc.Move(move * Time.deltaTime);
         }
-        if (Input.GetKey("a"))
-        {
-            transform.Translate(-speed * Time.deltaTime, 0, 0);
-            playAnim.SetBool("walking", true);
-        }
-        if (Input.GetKey("w"))
-        {
-            transform.Translate(0, 0, speed * Time.deltaTime);
-            playAnim.SetBool("walking", true);
-        }
-        if (Input.GetKey("s"))
-        {
-            transform.Translate(0, 0, -speed * Time.deltaTime);
-            playAnim.SetBool("walking", true);
-        }
-        if(Input.GetAxis("Horizontal")==0 && Input.GetAxis("Vertical") == 0)
+        else
         {
             playAnim.SetBool("walking", false);
         }
-//        if (Input.GetKeyDown("space"))
-//        {
-//            rb.AddForce(Vector3.up * 250);
-//        }
+        float xMouse = Input.GetAxis("Mouse X")*10f;
+        transform.Rotate(0, xMouse, 0);
 
+        pitch -= Input.GetAxis("Mouse Y") * 10f;
+        pitch = Mathf.Clamp(pitch, -45, 45);
+        Quaternion camRotation = Quaternion.Euler(pitch, 0, 0);
+
+        cam.localRotation = camRotation;
     }
 }
