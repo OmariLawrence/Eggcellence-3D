@@ -12,8 +12,6 @@ public class playermovement : MonoBehaviour
     public Transform cam;
     public float pitch = 0;
     //jump stuff
-//    public float yspeed = 2.0317f;
-//    public float gravity = -15;
 
     void Start()
     {
@@ -23,28 +21,22 @@ public class playermovement : MonoBehaviour
 
     void Update()
     {
+        playerUpdate();
+        cameraUpdate();
+        
+    }
+
+    void playerUpdate()
+    {
         float xInput = Input.GetAxis("Horizontal") * speed;
         float zInput = Input.GetAxis("Vertical") * speed;
 
         Vector3 move = new Vector3(xInput, 0, zInput);
         move = Vector3.ClampMagnitude(move, speed);
         move = transform.TransformVector(move);
-//        if (cc.isGrounded)
-//        {
-//            if (Input.GetButtonDown("Jump"))
-//            {
-//                yspeed = 15;
-//            }
-//            else
-//            {
-//                yspeed = gravity * Time.deltaTime;
-//            }
-//        }
-//        else
-//        {
-//            yspeed += gravity * Time.deltaTime;
-//        }
-        if(xInput!=0 || zInput != 0) {
+
+        if (xInput != 0 || zInput != 0)
+        {
             playAnim.SetBool("walking", true);
             cc.Move(move * Time.deltaTime);
         }
@@ -52,7 +44,11 @@ public class playermovement : MonoBehaviour
         {
             playAnim.SetBool("walking", false);
         }
-        float xMouse = Input.GetAxis("Mouse X")*10f;
+    }
+
+    void cameraUpdate()
+    {
+        float xMouse = Input.GetAxis("Mouse X") * 10f;
         transform.Rotate(0, xMouse, 0);
 
         pitch -= Input.GetAxis("Mouse Y") * 10f;
