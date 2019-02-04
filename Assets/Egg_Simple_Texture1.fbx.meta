@@ -1,9 +1,22 @@
 fileFormatVersion: 2
-guid: 18d57044e9574414ba2578d2eb5cc76f
+guid: 57356d85984b74f4089305cf32a102e7
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    2186277476908879412: ImportLogs
+    100000: BezierCircle
+    100002: Camera
+    100004: //RootNode
+    100006: Lamp
+    400000: BezierCircle
+    400002: Camera
+    400004: //RootNode
+    400006: Lamp
+    2000000: Camera
+    2100000: Material.001
+    2300000: BezierCircle
+    3300000: BezierCircle
+    4300000: BezierCircle
+    10800000: Lamp
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -84,7 +97,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

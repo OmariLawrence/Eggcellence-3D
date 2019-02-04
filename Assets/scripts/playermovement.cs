@@ -7,7 +7,7 @@ public class playermovement : MonoBehaviour
 {
 
     public CharacterController cc;
-    public Animator playAnim;
+    //public Animator playAnim;
     public float speed = 10;
     public Transform cam;
     public float pitch = 0;
@@ -16,7 +16,7 @@ public class playermovement : MonoBehaviour
     void Start()
     {
         cc = GetComponent<CharacterController>();
-        playAnim = GetComponent<Animator>();
+        //playAnim = GetComponent<Animator>();
     }
 
     void Update()
@@ -37,12 +37,12 @@ public class playermovement : MonoBehaviour
 
         if (xInput != 0 || zInput != 0)
         {
-            playAnim.SetBool("walking", true);
+            //playAnim.SetBool("walking", true);
             cc.Move(move * Time.deltaTime);
         }
         else
         {
-            playAnim.SetBool("walking", false);
+            //playAnim.SetBool("walking", false);
         }
     }
 
