@@ -33,4 +33,8 @@ public class thrower : MonoBehaviour
         //}
         print("collided");
     }
+    private void OnCollisionEnter(Collision collision)
+    {
+        print("collided");
+    }
 }
