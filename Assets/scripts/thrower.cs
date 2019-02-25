@@ -31,10 +31,11 @@ public class thrower : MonoBehaviour
         //{
         //    Destroy(col.gameObject);
         //}
-        print("collided");
+        //print("collided");
     }
     private void OnCollisionEnter(Collision collision)
     {
+        //Destroy(collision.gameObject);
         print("collided");
     }
 }

@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/multiplayertestscene.unity
+    guid: 148c5940cc6f8e14b9fb918653ad5cf8
   m_configObjects: {}
