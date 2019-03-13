@@ -5,8 +5,10 @@ using UnityEngine.Networking;
 
 public class thrower_net : NetworkBehaviour
 {
-    //public Rigidbody rb;
+    public int egglife = 10;
     public float speed;
+    private float age = 0;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -17,12 +19,17 @@ public class thrower_net : NetworkBehaviour
     // Update is called once per frame
     void Update()
     {
-        Move();
+        //Move();
     }
 
-    private void Move()
+    [ServerCallback]
+    private void timer()
     {
-        transform.Translate(Vector3.forward * Time.deltaTime * speed);
+        age += Time.deltaTime;
+        if (age > egglife)
+        {
+            NetworkServer.Destroy(gameObject);
+        }
     }
 
 

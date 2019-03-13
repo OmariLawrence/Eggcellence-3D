@@ -346,6 +346,7 @@ MonoBehaviour:
   cam: {fileID: 903141580771882905}
   offset: 1
   anim: {fileID: 0}
+  power: 3000
 --- !u!1 &903141581528416774
 GameObject:
   m_ObjectHideFlags: 0
