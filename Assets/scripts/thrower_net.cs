@@ -5,12 +5,12 @@ using UnityEngine.Networking;
 
 public class thrower_net : NetworkBehaviour
 {
-    public Rigidbody rb;
+    //public Rigidbody rb;
     public float speed;
     // Start is called before the first frame update
     void Start()
     {
-        rb = GetComponent<Rigidbody>();
+        //rb = GetComponent<Rigidbody>();
         //pelt();
     }
 

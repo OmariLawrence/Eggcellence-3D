@@ -164,10 +164,10 @@ GameObject:
   - component: {fileID: 903141581172952948}
   - component: {fileID: 903141581172952950}
   - component: {fileID: 903141581172952841}
-  - component: {fileID: 903141581172952842}
   - component: {fileID: 3794020739380330186}
   - component: {fileID: 1598569868744650107}
   - component: {fileID: 3033725111763178255}
+  - component: {fileID: 3144084625699129344}
   m_Layer: 0
   m_Name: newPC
   m_TagString: Untagged
@@ -257,23 +257,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &903141581172952842
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 903141581172952947}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9ba8f3dbc0c86ba41ac3f22dbf0dc993, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  eggPrefab: {fileID: 3582823858404598377, guid: ba150cb38bc24134189633c22c909ca4,
-    type: 3}
-  cam: {fileID: 903141580771882905}
-  offset: 1
-  anim: {fileID: 0}
 --- !u!114 &3794020739380330186
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -322,6 +305,7 @@ MonoBehaviour:
   cc: {fileID: 0}
   speed: 10
   cam: {fileID: 903141580771882905}
+  c: {fileID: 903141580771882904}
   pitch: 0
 --- !u!114 &3033725111763178255
 MonoBehaviour:
@@ -345,6 +329,23 @@ MonoBehaviour:
   m_SnapThreshold: 5
   m_InterpolateRotation: 15
   m_InterpolateMovement: 1
+--- !u!114 &3144084625699129344
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 903141581172952947}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c557fd3927f83444816f7c4d000228c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  eggPrefab: {fileID: 3582823858404598377, guid: ba150cb38bc24134189633c22c909ca4,
+    type: 3}
+  cam: {fileID: 903141580771882905}
+  offset: 1
+  anim: {fileID: 0}
 --- !u!1 &903141581528416774
 GameObject:
   m_ObjectHideFlags: 0

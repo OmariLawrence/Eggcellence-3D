@@ -10,6 +10,7 @@ public class playermoverment_net : NetworkBehaviour
     //public Animator playAnim;
     public float speed = 10;
     public Transform cam;
+    public Camera c;
     public float pitch = 0;
     //jump stuff
 
@@ -19,7 +20,7 @@ public class playermoverment_net : NetworkBehaviour
         //playAnim = GetComponent<Animator>();
         if (!isLocalPlayer)
         {
-            Destroy(cam.gameObject);
+            c.enabled = false;
             Destroy(this);
             return;
         }
