@@ -175,7 +175,7 @@ MonoBehaviour:
     i14: 0
     i15: 0
   m_ServerOnly: 0
-  m_LocalPlayerAuthority: 1
+  m_LocalPlayerAuthority: 0
 --- !u!114 &5791939443959754353
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -188,7 +188,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9462375b52ed1e9429146310597da60c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  egglife: 10
   speed: 25
+  power: 3000
+  rb: {fileID: 953389808}
 --- !u!114 &1008660607010867346
 MonoBehaviour:
   m_ObjectHideFlags: 0

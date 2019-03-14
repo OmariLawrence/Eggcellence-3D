@@ -11,6 +11,7 @@ public class spawner_net : NetworkBehaviour
     GameObject eggInstance;
     public Animator anim;
     public float power = 300;
+    private Vector3 front;
 
     // Start is called before the first frame update
     void Start()
@@ -21,6 +22,7 @@ public class spawner_net : NetworkBehaviour
     // Update is called once per frame
     void Update()
     {
+        front = cam.forward;
         if (isLocalPlayer)
         {
             if (cam == null)
@@ -43,7 +45,7 @@ public class spawner_net : NetworkBehaviour
     void CmdSpawnEgg()
     {
         GameObject instance = Instantiate(eggPrefab, transform.position + (transform.forward * offset), cam.rotation);
-        instance.GetComponent<Rigidbody>().AddForce(cam.forward * power);
+        instance.GetComponent<Rigidbody>().AddForce(front * power);
         NetworkServer.Spawn(instance);
         
     }

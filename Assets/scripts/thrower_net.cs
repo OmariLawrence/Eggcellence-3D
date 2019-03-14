@@ -7,19 +7,20 @@ public class thrower_net : NetworkBehaviour
 {
     public int egglife = 10;
     public float speed;
+    public float power = 3000;
     private float age = 0;
+    public Rigidbody rb;
 
     // Start is called before the first frame update
     void Start()
     {
-        //rb = GetComponent<Rigidbody>();
-        //pelt();
+        //rb.AddForce(transform.forward * power);
     }
 
     // Update is called once per frame
     void Update()
     {
-        //Move();
+        timer();
     }
 
     [ServerCallback]
