@@ -12,27 +12,28 @@ public class spawner_net : NetworkBehaviour
     public Animator anim;
     public float power = 300;
     private Vector3 front;
+    private Transform trans;
 
     // Start is called before the first frame update
     void Start()
     {
         anim = GetComponent<Animator>();
+        trans = transform;
     }
 
     // Update is called once per frame
     void Update()
     {
         front = cam.forward;
+        
         if (isLocalPlayer)
         {
-            if (cam == null)
-            {
-                Debug.Log("how");
-            }
             if (Input.GetMouseButtonDown(0))
             {
                 anim.SetBool("throwing", true);
-                CmdSpawnEgg();
+                GameObject instance = Instantiate(eggPrefab, trans.position + (trans.forward * offset), cam.rotation);
+                instance.GetComponent<Rigidbody>().AddForce(front * power);
+                CmdSpawnEgg(instance);
             }
             else
             {
@@ -42,10 +43,8 @@ public class spawner_net : NetworkBehaviour
     }
 
     [Command]
-    void CmdSpawnEgg()
+    void CmdSpawnEgg(GameObject instance)
     {
-        GameObject instance = Instantiate(eggPrefab, transform.position + (transform.forward * offset), cam.rotation);
-        instance.GetComponent<Rigidbody>().AddForce(front * power);
         NetworkServer.Spawn(instance);
         
     }

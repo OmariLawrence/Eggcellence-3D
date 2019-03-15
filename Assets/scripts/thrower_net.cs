@@ -36,10 +36,6 @@ public class thrower_net : NetworkBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        if (!isServer)
-        {
-            return;
-        }
         //Destroy(collision.gameObject);
         print("collided");
     }
