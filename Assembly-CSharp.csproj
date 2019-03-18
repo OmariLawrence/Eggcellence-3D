@@ -72,11 +72,14 @@
     <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyServerEntry.cs" />
     <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyServerList.cs" />
     <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyTopPanel.cs" />
+    <Compile Include="Assets\scripts\DeathMatch.cs" />
+    <Compile Include="Assets\scripts\Health.cs" />
     <Compile Include="Assets\scripts\hover.cs" />
     <Compile Include="Assets\scripts\networkmanager_cameracontroller.cs" />
     <Compile Include="Assets\scripts\playerfollow.cs" />
     <Compile Include="Assets\scripts\playermovement.cs" />
     <Compile Include="Assets\scripts\playermoverment_net.cs" />
+    <Compile Include="Assets\scripts\RotatingCameraController.cs" />
     <Compile Include="Assets\scripts\spawner.cs" />
     <Compile Include="Assets\scripts\spawner_net.cs" />
     <Compile Include="Assets\scripts\thrower.cs" />

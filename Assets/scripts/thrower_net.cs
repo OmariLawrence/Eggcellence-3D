@@ -36,7 +36,18 @@ public class thrower_net : NetworkBehaviour
 
     private void OnCollisionEnter(Collision collision)
     {
-        //Destroy(collision.gameObject);
         print("collided");
+        if (collision.gameObject.tag != "Player")
+        {
+            return;
+        }
+
+        Health h = collision.gameObject.GetComponent<Health>();
+
+        if(h != null)
+        {
+            h.takeDamage(1);
+        }
+        Destroy(gameObject);
     }
 }

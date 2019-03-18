@@ -177,3 +177,6 @@ c6666661329916e218bee7f5e79e60f5 Unity.TextMeshPro.dll:TMPro.TextMeshPro
 8649814970b42d345b89944b862453cc Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
 88f1d4a52343f9ae6e1509f933b86788 Assembly-CSharp.dll:.thrower
 ec47a49478d99d9bebb10dcf002ea058 Assembly-CSharp.dll:Prototype.NetworkLobby.LobbyServerList
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.Health
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.DeathMatch
+34ac6491c3792a476455bf2c52e14c34 Assembly-CSharp.dll:.RotatingCameraController
