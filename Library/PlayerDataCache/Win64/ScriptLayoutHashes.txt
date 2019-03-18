@@ -2,6 +2,7 @@ Win64
 PlayerPath?
 C:/Users/olawr/Desktop/Eggcellence 3D/Eggcellence 3D.exe
 SceneListBegin?
+Assets/Scenes/Menu.unity
 Assets/Scenes/Lobby.unity
 Assets/Scenes/multiplayer_matchmaking.unity
 SceneListEnd?
@@ -124,7 +125,9 @@ d251bf88db6c95a6b1aa0b69298da9ef UnityEngine.SpatialTracking.dll:UnityEngine.Spa
 7fb9de8dcf73854b6b328eca1f7a6e6d Unity.Analytics.Tracker.dll:UnityEngine.Analytics.AnalyticsTracker
 94017dcc9f00fe671ea7dc427b4da011 Unity.TextMeshPro.dll:TMPro.TMP_SpriteAsset
 114e8c1e8771e0e7ba48ab7a8aefd655 Assembly-CSharp.dll:.playerfollow
+34ac6491c3792a476455bf2c52e14c34 Assembly-CSharp.dll:.RotatingCameraController
 cebbd852e7c2db5bf87b2b7f5369dd27 Assembly-CSharp.dll:.playermovement
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.DeathMatch
 b3ab2106268377ffe25dd18ac23dca28 Unity.TextMeshPro.dll:TMPro.TMP_Asset
 eb1f86cca3c47aa1287a5022ededdc3a Assembly-CSharp.dll:Prototype.NetworkLobby.LobbyCountdownPanel
 71bb6a6b6c8f052f948db64c7dd3ca4f Unity.Analytics.Editor.dll:UnityEditor.Analytics.AnalyticsEventTrackerEditor
@@ -171,12 +174,14 @@ a4f0a4f62100f1a4fb5cbe0e00dde83f Unity.TextMeshPro.dll:TMPro.TextMeshProUGUI
 1c9f0eb1c7b340f1b89c9f976f324488 Assembly-CSharp.dll:.hover
 d251bf88db6c95a6b1aa0b69298da9ef UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 d791aa6007fa3640be1164ea75bb087d Unity.TextMeshPro.dll:TMPro.TMP_StyleSheet
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.Health
 c6666661329916e218bee7f5e79e60f5 Unity.TextMeshPro.dll:TMPro.TextMeshPro
 3165968ba45c74472d279ba04455fccb Unity.TextMeshPro.dll:TMPro.TMP_ColorGradient
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:Prototype.NetworkLobby.DraggablePanel
 8649814970b42d345b89944b862453cc Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
 88f1d4a52343f9ae6e1509f933b86788 Assembly-CSharp.dll:.thrower
 ec47a49478d99d9bebb10dcf002ea058 Assembly-CSharp.dll:Prototype.NetworkLobby.LobbyServerList
-71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.Health
-71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.DeathMatch
-34ac6491c3792a476455bf2c52e14c34 Assembly-CSharp.dll:.RotatingCameraController
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.mainMenu
+afc5b93a7b192de2dcb3832fe35a5c7e Assembly-CSharp.dll:.eggRotater
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.goBack
+fac48cf8ffb4345df3856f5bfa2c15c0 Assembly-CSharp.dll:.shutdown
