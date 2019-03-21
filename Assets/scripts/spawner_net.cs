@@ -30,10 +30,17 @@ public class spawner_net : NetworkBehaviour
         {
             if (Input.GetMouseButtonDown(0))
             {
+                if (isServer)
+                {
+                    Debug.Log("Shooting form server");
+                    CmdSpawnEggServer();
+                }
+                else
+                {
+                    Debug.Log("Shooting from client");
+                    CmdSpawnEggClient();
+                }
                 anim.SetBool("throwing", true);
-                GameObject instance = Instantiate(eggPrefab, trans.position + (trans.forward * offset), cam.rotation);
-                instance.GetComponent<Rigidbody>().AddForce(front * power);
-                CmdSpawnEgg(instance);
             }
             else
             {
@@ -43,9 +50,19 @@ public class spawner_net : NetworkBehaviour
     }
 
     [Command]
-    void CmdSpawnEgg(GameObject instance)
+    void CmdSpawnEggServer()
     {
+        GameObject instance = Instantiate(eggPrefab, trans.position + (trans.forward * offset), cam.rotation);
+        instance.GetComponent<Rigidbody>().AddForce(instance.transform.forward * power);
         NetworkServer.Spawn(instance);
         
+    }
+    [Command]
+    void CmdSpawnEggClient()
+    {
+        GameObject instance = Instantiate(eggPrefab, trans.position + (trans.forward * offset), cam.rotation);
+        instance.GetComponent<Rigidbody>().AddForce((instance.transform.forward * -1) * power);
+        NetworkServer.Spawn(instance);
+
     }
 }
