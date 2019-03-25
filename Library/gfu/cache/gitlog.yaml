@@ -13,9 +13,2205 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-03-21T15:28:00.367-03:00
-  initializedAtString: 2019-03-21T15:28:00.367-03:00
+  lastUpdatedAtString: 2019-03-22T11:47:32.647-03:00
+  initializedAtString: 2019-03-22T10:42:11.763-03:00
   log:
+  - commitID: 7122363d59a86d503cfe8dd85e097cd1784ed16e
+    mergeA: 
+    mergeB: 
+    authorName: OmariLawrence
+    authorEmail: originalolawrence@gmail.com
+    commitEmail: originalolawrence@gmail.com
+    commitName: OmariLawrence
+    summary: re:re:re fixed client shooting
+    description: 
+    timeString: 2019-03-21T15:23:16.000-04:00
+    commitTimeString: 2019-03-21T15:23:16.000-04:00
+    changes:
+    - path: .vs\Eggcellence 3D\v15\.suo
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\.vs\Eggcellence 3D\v15\.suo
+      projectPath: .vs\Eggcellence 3D\v15\.suo
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: .vs\Eggcellence 3D\v15\Server\sqlite3\storage.ide
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\.vs\Eggcellence 3D\v15\Server\sqlite3\storage.ide
+      projectPath: .vs\Eggcellence 3D\v15\Server\sqlite3\storage.ide
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: .vs\Eggcellence 3D\v15\Server\sqlite3\storage.ide-shm
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\.vs\Eggcellence 3D\v15\Server\sqlite3\storage.ide-shm
+      projectPath: .vs\Eggcellence 3D\v15\Server\sqlite3\storage.ide-shm
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: .vs\Eggcellence 3D\v15\Server\sqlite3\storage.ide-wal
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\.vs\Eggcellence 3D\v15\Server\sqlite3\storage.ide-wal
+      projectPath: .vs\Eggcellence 3D\v15\Server\sqlite3\storage.ide-wal
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assembly-CSharp-Editor-firstpass.csproj
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assembly-CSharp-Editor-firstpass.csproj
+      projectPath: Assembly-CSharp-Editor-firstpass.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assembly-CSharp.csproj
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\MainMixer.mixer
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\MainMixer.mixer
+      projectPath: Assets\MainMixer.mixer
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\MainMixer.mixer.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\MainMixer.mixer.meta
+      projectPath: Assets\MainMixer.mixer.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\Menu.unity
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\Scenes\Menu.unity
+      projectPath: Assets\Scenes\Menu.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\scripts\mainMenu.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\scripts\mainMenu.cs
+      projectPath: Assets\scripts\mainMenu.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\scripts\optionsmenu.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\scripts\optionsmenu.cs
+      projectPath: Assets\scripts\optionsmenu.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\scripts\optionsmenu.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\scripts\optionsmenu.cs.meta
+      projectPath: Assets\scripts\optionsmenu.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\scripts\spawner_net.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\scripts\spawner_net.cs
+      projectPath: Assets\scripts\spawner_net.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\CurrentLayout.dwlt
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\LastBuild.buildreport
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\LastBuild.buildreport
+      projectPath: Library\LastBuild.buildreport
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\LastSceneManagerSetup.txt
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\LastSceneManagerSetup.txt
+      projectPath: Library\LastSceneManagerSetup.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.3\package.json
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.3\package.json
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\package.json
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\CHANGELOG.md
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\CHANGELOG.md
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\CHANGELOG.md
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\CHANGELOG.md
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\CHANGELOG.md.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\CHANGELOG.md.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\CHANGELOG.md.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\CHANGELOG.md.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-DetailsPane.png
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-DetailsPane.png
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-DetailsPane.png
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Documentation~\Images\PackageManagerUI-DetailsPane.png
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-DocSite.png
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-DocSite.png
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-DocSite.png
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Documentation~\Images\PackageManagerUI-DocSite.png
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-ExternalPackageButton.png
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-ExternalPackageButton.png
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-ExternalPackageButton.png
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Documentation~\Images\PackageManagerUI-ExternalPackageButton.png
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-Main.png
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-Main.png
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-Main.png
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Documentation~\Images\PackageManagerUI-Main.png
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-SearchResults.png
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-SearchResults.png
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-SearchResults.png
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Documentation~\Images\PackageManagerUI-SearchResults.png
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-StatusBar_Network.png
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-StatusBar_Network.png
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-StatusBar_Network.png
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Documentation~\Images\PackageManagerUI-StatusBar_Network.png
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-StatusBar_Update.png
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-StatusBar_Update.png
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-StatusBar_Update.png
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Documentation~\Images\PackageManagerUI-StatusBar_Update.png
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-checkmark.png
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-checkmark.png
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-checkmark.png
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Documentation~\Images\PackageManagerUI-checkmark.png
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-downloadicon.png
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-downloadicon.png
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-downloadicon.png
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Documentation~\Images\PackageManagerUI-downloadicon.png
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-errorflag.png
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-errorflag.png
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\Images\PackageManagerUI-errorflag.png
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Documentation~\Images\PackageManagerUI-errorflag.png
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\package-manager-ui.md
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\package-manager-ui.md
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Documentation~\package-manager-ui.md
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Documentation~\package-manager-ui.md
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\AssemblyInfo.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\AssemblyInfo.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\AssemblyInfo.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\AssemblyInfo.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\AssemblyInfo.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\AssemblyInfo.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\AssemblyInfo.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\AssemblyInfo.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Images.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Dark.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Dark.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Dark.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Images\Dark.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Dark\download.png
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Dark\download.png
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Dark\download.png
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Images\Dark\download.png
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Dark\download.png.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Dark\download.png.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Dark\download.png.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Images\Dark\download.png.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Dark\error.png
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Dark\error.png
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Dark\error.png
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Images\Dark\error.png
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Dark\error.png.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Dark\error.png.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Dark\error.png.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Images\Dark\error.png.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Dark\loading.png
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Dark\loading.png
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Dark\loading.png
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Images\Dark\loading.png
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Dark\loading.png.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Dark\loading.png.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Dark\loading.png.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Images\Dark\loading.png.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Light.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Light.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Light.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Images\Light.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Light\download.png
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Light\download.png
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Light\download.png
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Images\Light\download.png
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Light\download.png.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Light\download.png.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Light\download.png.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Images\Light\download.png.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Light\error.png
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Light\error.png
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Light\error.png
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Images\Light\error.png
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Light\error.png.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Light\error.png.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Light\error.png.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Images\Light\error.png.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Light\loading.png
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Light\loading.png
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Light\loading.png
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Images\Light\loading.png
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Light\loading.png.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Light\loading.png.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Images\Light\loading.png.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Images\Light\loading.png.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Styles.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\Main_Dark.scss
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\Main_Dark.scss
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\Main_Dark.scss
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Styles\Main_Dark.scss
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\Main_Dark.scss.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\Main_Dark.scss.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\Main_Dark.scss.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Styles\Main_Dark.scss.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\Main_Dark.uss
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\Main_Dark.uss
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\Main_Dark.uss
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Styles\Main_Dark.uss
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\Main_Dark.uss.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\Main_Dark.uss.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\Main_Dark.uss.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Styles\Main_Dark.uss.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\Main_Light.scss
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\Main_Light.scss
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\Main_Light.scss
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Styles\Main_Light.scss
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\Main_Light.scss.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\Main_Light.scss.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\Main_Light.scss.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Styles\Main_Light.scss.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\Main_Light.uss
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\Main_Light.uss
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\Main_Light.uss
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Styles\Main_Light.uss
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\Main_Light.uss.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\Main_Light.uss.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\Main_Light.uss.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Styles\Main_Light.uss.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\_common.scss
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\_common.scss
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\_common.scss
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Styles\_common.scss
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\_common.scss.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\_common.scss.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Styles\_common.scss.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Styles\_common.scss.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\Alert.uxml
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\Alert.uxml
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\Alert.uxml
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates\Alert.uxml
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\Alert.uxml.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\Alert.uxml.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\Alert.uxml.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates\Alert.uxml.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageAddFromUrlField.uxml
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageAddFromUrlField.uxml
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageAddFromUrlField.uxml
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates\PackageAddFromUrlField.uxml
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageAddFromUrlField.uxml.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageAddFromUrlField.uxml.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageAddFromUrlField.uxml.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates\PackageAddFromUrlField.uxml.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageDetails.uxml
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageDetails.uxml
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageDetails.uxml
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates\PackageDetails.uxml
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageDetails.uxml.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageDetails.uxml.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageDetails.uxml.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates\PackageDetails.uxml.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageGroup.uxml
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageGroup.uxml
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageGroup.uxml
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates\PackageGroup.uxml
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageGroup.uxml.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageGroup.uxml.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageGroup.uxml.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates\PackageGroup.uxml.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageItem.uxml
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageItem.uxml
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageItem.uxml
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates\PackageItem.uxml
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageItem.uxml.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageItem.uxml.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageItem.uxml.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates\PackageItem.uxml.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageList.uxml
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageList.uxml
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageList.uxml
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates\PackageList.uxml
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageList.uxml.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageList.uxml.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageList.uxml.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates\PackageList.uxml.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageManagerToolbar.uxml
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageManagerToolbar.uxml
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageManagerToolbar.uxml
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates\PackageManagerToolbar.uxml
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageManagerToolbar.uxml.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageManagerToolbar.uxml.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageManagerToolbar.uxml.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates\PackageManagerToolbar.uxml.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageManagerWindow.uxml
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageManagerWindow.uxml
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageManagerWindow.uxml
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates\PackageManagerWindow.uxml
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageManagerWindow.uxml.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageManagerWindow.uxml.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageManagerWindow.uxml.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates\PackageManagerWindow.uxml.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageSearchToolbar.uxml
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageSearchToolbar.uxml
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageSearchToolbar.uxml
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates\PackageSearchToolbar.uxml
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageSearchToolbar.uxml.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageSearchToolbar.uxml.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageSearchToolbar.uxml.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates\PackageSearchToolbar.uxml.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageStatusBar.uxml
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageStatusBar.uxml
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageStatusBar.uxml
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates\PackageStatusBar.uxml
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageStatusBar.uxml.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageStatusBar.uxml.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\PackageStatusBar.uxml.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates\PackageStatusBar.uxml.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\UIElementsSchema.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\UIElementsSchema.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\UIElementsSchema.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates\UIElementsSchema.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\UIElementsSchema\UIElements.xsd
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\UIElementsSchema\UIElements.xsd
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\UIElementsSchema\UIElements.xsd
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates\UIElementsSchema\UIElements.xsd
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\UIElementsSchema\UIElements.xsd.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\UIElementsSchema\UIElements.xsd.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\UIElementsSchema\UIElements.xsd.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates\UIElementsSchema\UIElements.xsd.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\UIElementsSchema\UnityEditor.Experimental.UIElements.xsd
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\UIElementsSchema\UnityEditor.Experimental.UIElements.xsd
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\UIElementsSchema\UnityEditor.Experimental.UIElements.xsd
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates\UIElementsSchema\UnityEditor.Experimental.UIElements.xsd
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\UIElementsSchema\UnityEditor.Experimental.UIElements.xsd.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\UIElementsSchema\UnityEditor.Experimental.UIElements.xsd.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\UIElementsSchema\UnityEditor.Experimental.UIElements.xsd.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates\UIElementsSchema\UnityEditor.Experimental.UIElements.xsd.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\UIElementsSchema\UnityEditor.PackageManager.UI.xsd
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\UIElementsSchema\UnityEditor.PackageManager.UI.xsd
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\UIElementsSchema\UnityEditor.PackageManager.UI.xsd
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates\UIElementsSchema\UnityEditor.PackageManager.UI.xsd
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\UIElementsSchema\UnityEditor.PackageManager.UI.xsd.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\UIElementsSchema\UnityEditor.PackageManager.UI.xsd.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\UIElementsSchema\UnityEditor.PackageManager.UI.xsd.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates\UIElementsSchema\UnityEditor.PackageManager.UI.xsd.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\UIElementsSchema\UnityEngine.Experimental.UIElements.xsd
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\UIElementsSchema\UnityEngine.Experimental.UIElements.xsd
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\UIElementsSchema\UnityEngine.Experimental.UIElements.xsd
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates\UIElementsSchema\UnityEngine.Experimental.UIElements.xsd
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\UIElementsSchema\UnityEngine.Experimental.UIElements.xsd.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\UIElementsSchema\UnityEngine.Experimental.UIElements.xsd.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Resources\Templates\UIElementsSchema\UnityEngine.Experimental.UIElements.xsd.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Resources\Templates\UIElementsSchema\UnityEngine.Experimental.UIElements.xsd.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\External.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\External.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\External.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\External.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\External\SemVersion.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\External\SemVersion.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\External\SemVersion.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\External\SemVersion.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\External\SemVersion.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\External\SemVersion.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\External\SemVersion.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\External\SemVersion.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\External\SemVersionExtension.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\External\SemVersionExtension.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\External\SemVersionExtension.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\External\SemVersionExtension.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\External\SemVersionExtension.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\External\SemVersionExtension.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\External\SemVersionExtension.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\External\SemVersionExtension.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Common.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Common.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Common.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Common.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Common\ApplicationUtil.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Common\ApplicationUtil.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Common\ApplicationUtil.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Common\ApplicationUtil.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Common\ApplicationUtil.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Common\ApplicationUtil.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Common\ApplicationUtil.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Common\ApplicationUtil.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Common\OperationSignal.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Common\OperationSignal.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Common\OperationSignal.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Common\OperationSignal.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Common\OperationSignal.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Common\OperationSignal.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Common\OperationSignal.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Common\OperationSignal.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Common\Resources.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Common\Resources.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Common\Resources.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Common\Resources.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Common\Resources.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Common\Resources.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Common\Resources.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Common\Resources.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Common\ThreadedDelay.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Common\ThreadedDelay.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Common\ThreadedDelay.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Common\ThreadedDelay.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Common\ThreadedDelay.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Common\ThreadedDelay.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Common\ThreadedDelay.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Common\ThreadedDelay.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Interfaces.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IAddOperation.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IAddOperation.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IAddOperation.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Interfaces\IAddOperation.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IAddOperation.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IAddOperation.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IAddOperation.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Interfaces\IAddOperation.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IBaseOperation.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IBaseOperation.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IBaseOperation.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Interfaces\IBaseOperation.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IBaseOperation.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IBaseOperation.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IBaseOperation.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Interfaces\IBaseOperation.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IListOperation.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IListOperation.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IListOperation.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Interfaces\IListOperation.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IListOperation.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IListOperation.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IListOperation.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Interfaces\IListOperation.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IOperationFactory.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IOperationFactory.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IOperationFactory.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Interfaces\IOperationFactory.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IOperationFactory.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IOperationFactory.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IOperationFactory.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Interfaces\IOperationFactory.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IRemoveOperation.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IRemoveOperation.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IRemoveOperation.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Interfaces\IRemoveOperation.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IRemoveOperation.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IRemoveOperation.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\IRemoveOperation.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Interfaces\IRemoveOperation.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\ISearchOperation.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\ISearchOperation.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\ISearchOperation.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Interfaces\ISearchOperation.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\ISearchOperation.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\ISearchOperation.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Interfaces\ISearchOperation.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Interfaces\ISearchOperation.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\OperationFactory.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\OperationFactory.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\OperationFactory.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\OperationFactory.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\OperationFactory.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\OperationFactory.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\OperationFactory.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\OperationFactory.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Packages.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\Package.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\Package.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\Package.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Packages\Package.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\Package.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\Package.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\Package.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Packages\Package.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageAssetPostprocessor.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageAssetPostprocessor.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageAssetPostprocessor.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Packages\PackageAssetPostprocessor.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageAssetPostprocessor.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageAssetPostprocessor.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageAssetPostprocessor.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Packages\PackageAssetPostprocessor.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageCollection.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageCollection.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageCollection.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Packages\PackageCollection.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageCollection.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageCollection.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageCollection.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Packages\PackageCollection.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageError.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageError.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageError.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Packages\PackageError.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageError.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageError.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageError.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Packages\PackageError.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageFilter.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageFilter.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageFilter.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Packages\PackageFilter.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageFilter.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageFilter.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageFilter.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Packages\PackageFilter.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageGroupOrigins.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageGroupOrigins.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageGroupOrigins.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Packages\PackageGroupOrigins.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageGroupOrigins.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageGroupOrigins.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageGroupOrigins.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Packages\PackageGroupOrigins.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageInfo.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageInfo.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageInfo.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Packages\PackageInfo.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageInfo.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageInfo.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageInfo.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Packages\PackageInfo.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageInfoListExtensions.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageInfoListExtensions.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageInfoListExtensions.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Packages\PackageInfoListExtensions.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageInfoListExtensions.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageInfoListExtensions.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageInfoListExtensions.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Packages\PackageInfoListExtensions.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageJsonHelper.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageJsonHelper.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageJsonHelper.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Packages\PackageJsonHelper.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageJsonHelper.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageJsonHelper.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageJsonHelper.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Packages\PackageJsonHelper.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageListExtensions.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageListExtensions.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageListExtensions.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Packages\PackageListExtensions.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageListExtensions.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageListExtensions.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageListExtensions.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Packages\PackageListExtensions.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageOrigin.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageOrigin.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageOrigin.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Packages\PackageOrigin.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageOrigin.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageOrigin.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageOrigin.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Packages\PackageOrigin.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageSearchFilter.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageSearchFilter.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageSearchFilter.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Packages\PackageSearchFilter.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageSearchFilter.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageSearchFilter.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageSearchFilter.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Packages\PackageSearchFilter.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageState.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageState.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageState.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Packages\PackageState.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageState.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageState.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageState.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Packages\PackageState.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageTag.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageTag.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageTag.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Packages\PackageTag.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageTag.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageTag.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Packages\PackageTag.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Packages\PackageTag.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Upm.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmAddOperation.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmAddOperation.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmAddOperation.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Upm\UpmAddOperation.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmAddOperation.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmAddOperation.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmAddOperation.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Upm\UpmAddOperation.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmBaseOperation.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmBaseOperation.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmBaseOperation.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Upm\UpmBaseOperation.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmBaseOperation.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmBaseOperation.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmBaseOperation.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Upm\UpmBaseOperation.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmListOperation.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmListOperation.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmListOperation.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Upm\UpmListOperation.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmListOperation.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmListOperation.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmListOperation.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Upm\UpmListOperation.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmOperationFactory.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmOperationFactory.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmOperationFactory.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Upm\UpmOperationFactory.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmOperationFactory.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmOperationFactory.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmOperationFactory.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Upm\UpmOperationFactory.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmRemoveOperation.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmRemoveOperation.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmRemoveOperation.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Upm\UpmRemoveOperation.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmRemoveOperation.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmRemoveOperation.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmRemoveOperation.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Upm\UpmRemoveOperation.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmSearchOperation.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmSearchOperation.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmSearchOperation.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Upm\UpmSearchOperation.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmSearchOperation.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmSearchOperation.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\Services\Upm\UpmSearchOperation.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\Services\Upm\UpmSearchOperation.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\Common.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\Alert.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\Alert.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\Alert.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\Common\Alert.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\Alert.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\Alert.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\Alert.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\Common\Alert.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\LoadingSpinner.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\LoadingSpinner.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\LoadingSpinner.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\Common\LoadingSpinner.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\LoadingSpinner.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\LoadingSpinner.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\LoadingSpinner.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\Common\LoadingSpinner.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\PopupField.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\PopupField.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\PopupField.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\Common\PopupField.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\PopupField.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\PopupField.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\PopupField.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\Common\PopupField.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\UIUtils.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\UIUtils.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\UIUtils.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\Common\UIUtils.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\UIUtils.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\UIUtils.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\UIUtils.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\Common\UIUtils.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\VersionItem.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\VersionItem.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\VersionItem.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\Common\VersionItem.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\VersionItem.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\VersionItem.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Common\VersionItem.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\Common\VersionItem.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Interfaces.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Interfaces.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Interfaces.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\Interfaces.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Interfaces\IPackageManagerExtension.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Interfaces\IPackageManagerExtension.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Interfaces\IPackageManagerExtension.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\Interfaces\IPackageManagerExtension.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Interfaces\IPackageManagerExtension.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Interfaces\IPackageManagerExtension.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\Interfaces\IPackageManagerExtension.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\Interfaces\IPackageManagerExtension.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageAddFromUrlField.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageAddFromUrlField.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageAddFromUrlField.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\PackageAddFromUrlField.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageAddFromUrlField.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageAddFromUrlField.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageAddFromUrlField.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\PackageAddFromUrlField.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageDetails.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageDetails.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageDetails.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\PackageDetails.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageDetails.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageDetails.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageDetails.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\PackageDetails.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageFiltering.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageFiltering.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageFiltering.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\PackageFiltering.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageFiltering.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageFiltering.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageFiltering.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\PackageFiltering.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageGroup.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageGroup.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageGroup.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\PackageGroup.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageGroup.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageGroup.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageGroup.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\PackageGroup.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageItem.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageItem.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageItem.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\PackageItem.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageItem.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageItem.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageItem.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\PackageItem.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageList.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageList.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageList.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\PackageList.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageList.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageList.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageList.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\PackageList.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageManagerExtensions.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageManagerExtensions.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageManagerExtensions.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\PackageManagerExtensions.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageManagerExtensions.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageManagerExtensions.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageManagerExtensions.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\PackageManagerExtensions.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageManagerPrefs.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageManagerPrefs.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageManagerPrefs.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\PackageManagerPrefs.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageManagerPrefs.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageManagerPrefs.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageManagerPrefs.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\PackageManagerPrefs.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageManagerToolbar.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageManagerToolbar.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageManagerToolbar.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\PackageManagerToolbar.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageManagerToolbar.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageManagerToolbar.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageManagerToolbar.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\PackageManagerToolbar.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageManagerWindow.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageManagerWindow.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageManagerWindow.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\PackageManagerWindow.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageManagerWindow.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageManagerWindow.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageManagerWindow.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\PackageManagerWindow.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageSearchToolbar.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageSearchToolbar.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageSearchToolbar.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\PackageSearchToolbar.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageSearchToolbar.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageSearchToolbar.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageSearchToolbar.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\PackageSearchToolbar.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageStatusBar.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageStatusBar.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageStatusBar.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\PackageStatusBar.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageStatusBar.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageStatusBar.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Sources\UI\PackageStatusBar.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Sources\UI\PackageStatusBar.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Unity.PackageManagerUI.Editor.asmdef
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Unity.PackageManagerUI.Editor.asmdef
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Unity.PackageManagerUI.Editor.asmdef
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Unity.PackageManagerUI.Editor.asmdef
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Unity.PackageManagerUI.Editor.asmdef.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Unity.PackageManagerUI.Editor.asmdef.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Editor\Unity.PackageManagerUI.Editor.asmdef.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Editor\Unity.PackageManagerUI.Editor.asmdef.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\LICENSE.md
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\LICENSE.md
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\LICENSE.md
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\LICENSE.md
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\LICENSE.md.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\LICENSE.md.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\LICENSE.md.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\LICENSE.md.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\README.md
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\README.md
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\README.md
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\README.md
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\README.md.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\README.md.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\README.md.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\README.md.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\AssemblyInfo.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\AssemblyInfo.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\AssemblyInfo.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\AssemblyInfo.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\AssemblyInfo.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\AssemblyInfo.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\AssemblyInfo.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\AssemblyInfo.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Common.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Common.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Common.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Common.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Common\PackageSets.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Common\PackageSets.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Common\PackageSets.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Common\PackageSets.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Common\PackageSets.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Common\PackageSets.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Common\PackageSets.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Common\PackageSets.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Common\UITests.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Common\UITests.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Common\UITests.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Common\UITests.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Common\UITests.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Common\UITests.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Common\UITests.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Common\UITests.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Services.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Services\Mock.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockAddOperation.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockAddOperation.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockAddOperation.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Services\Mock\MockAddOperation.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockAddOperation.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockAddOperation.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockAddOperation.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Services\Mock\MockAddOperation.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockListOperation.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockListOperation.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockListOperation.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Services\Mock\MockListOperation.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockListOperation.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockListOperation.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockListOperation.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Services\Mock\MockListOperation.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockOperation.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockOperation.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockOperation.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Services\Mock\MockOperation.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockOperation.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockOperation.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockOperation.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Services\Mock\MockOperation.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockRemoveOperation.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockRemoveOperation.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockRemoveOperation.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Services\Mock\MockRemoveOperation.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockRemoveOperation.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockRemoveOperation.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockRemoveOperation.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Services\Mock\MockRemoveOperation.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockSearchOperation.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockSearchOperation.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockSearchOperation.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Services\Mock\MockSearchOperation.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockSearchOperation.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockSearchOperation.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Mock\MockSearchOperation.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Services\Mock\MockSearchOperation.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\MockOperationFactory.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\MockOperationFactory.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\MockOperationFactory.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Services\MockOperationFactory.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\MockOperationFactory.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\MockOperationFactory.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\MockOperationFactory.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Services\MockOperationFactory.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Services\Packages.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageBaseTests.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageBaseTests.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageBaseTests.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Services\Packages\PackageBaseTests.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageBaseTests.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageBaseTests.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageBaseTests.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Services\Packages\PackageBaseTests.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageCollectionTests.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageCollectionTests.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageCollectionTests.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Services\Packages\PackageCollectionTests.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageCollectionTests.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageCollectionTests.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageCollectionTests.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Services\Packages\PackageCollectionTests.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageInfoTests.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageInfoTests.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageInfoTests.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Services\Packages\PackageInfoTests.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageInfoTests.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageInfoTests.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageInfoTests.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Services\Packages\PackageInfoTests.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageSearchTests.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageSearchTests.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageSearchTests.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Services\Packages\PackageSearchTests.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageSearchTests.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageSearchTests.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageSearchTests.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Services\Packages\PackageSearchTests.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageTests.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageTests.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageTests.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Services\Packages\PackageTests.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageTests.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageTests.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Services\Packages\PackageTests.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Services\Packages\PackageTests.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\UI.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\UI.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\UI.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\UI.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\UI\PackageDetailsTests.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\UI\PackageDetailsTests.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\UI\PackageDetailsTests.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\UI\PackageDetailsTests.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\UI\PackageDetailsTests.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\UI\PackageDetailsTests.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\UI\PackageDetailsTests.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\UI\PackageDetailsTests.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\UI\PackageManagerWindowTests.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\UI\PackageManagerWindowTests.cs
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\UI\PackageManagerWindowTests.cs
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\UI\PackageManagerWindowTests.cs
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\UI\PackageManagerWindowTests.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\UI\PackageManagerWindowTests.cs.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\UI\PackageManagerWindowTests.cs.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\UI\PackageManagerWindowTests.cs.meta
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Unity.PackageManagerUI.EditorTests.asmdef
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Unity.PackageManagerUI.EditorTests.asmdef
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Unity.PackageManagerUI.EditorTests.asmdef
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Unity.PackageManagerUI.EditorTests.asmdef
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Unity.PackageManagerUI.EditorTests.asmdef.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Unity.PackageManagerUI.EditorTests.asmdef.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\Tests\Editor\Unity.PackageManagerUI.EditorTests.asmdef.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Tests\Editor\Unity.PackageManagerUI.EditorTests.asmdef.meta
+      status: 6
+      staged: 0
+    - path: "Party Notices.md\tLibrary\\PackageCache\\com.unity.package-manager-ui@2.0.7\\Third
+        Party Notices.md"
+      fullPath: "C:\\Users\\olawr\\Documents\\Eggcellence 3D\\Party Notices.md\tLibrary\\PackageCache\\com.unity.package-manager-ui@2.0.7\\Third
+        Party Notices.md"
+      projectPath: "Party Notices.md\tLibrary\\PackageCache\\com.unity.package-manager-ui@2.0.7\\Third
+        Party Notices.md"
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Third
+      status: 6
+      staged: 0
+    - path: "Party Notices.md.meta\tLibrary\\PackageCache\\com.unity.package-manager-ui@2.0.7\\Third
+        Party Notices.md.meta"
+      fullPath: "C:\\Users\\olawr\\Documents\\Eggcellence 3D\\Party Notices.md.meta\tLibrary\\PackageCache\\com.unity.package-manager-ui@2.0.7\\Third
+        Party Notices.md.meta"
+      projectPath: "Party Notices.md.meta\tLibrary\\PackageCache\\com.unity.package-manager-ui@2.0.7\\Third
+        Party Notices.md.meta"
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\Third
+      status: 6
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\package.json
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\package.json
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\package.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\PackageCache\com.unity.package-manager-ui@2.0.7\package.json.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PackageCache\com.unity.package-manager-ui@2.0.7\package.json.meta
+      projectPath: Library\PackageCache\com.unity.package-manager-ui@2.0.7\package.json.meta
+      originalPath: Library\PackageCache\com.unity.package-manager-ui@2.0.3\package.json.meta
+      status: 6
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\Unity.Analytics.DataPrivacy.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\Managed\Unity.Analytics.DataPrivacy.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\Unity.Analytics.DataPrivacy.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CoreModule.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CoreModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.CoreModule.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Networking.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Networking.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Networking.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PhysicsModule.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PhysicsModule.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.PhysicsModule.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpatialTracking.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpatialTracking.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.SpatialTracking.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Timeline.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Timeline.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.Timeline.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UI.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UI.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\UnityEngine.UI.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\Resources\unity_builtin_extra
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\Resources\unity_builtin_extra
+      projectPath: Library\PlayerDataCache\Win64\Data\Resources\unity_builtin_extra
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\globalgamemanagers
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\globalgamemanagers
+      projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+      projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\level0
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\level0
+      projectPath: Library\PlayerDataCache\Win64\Data\level0
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\level1
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\level1
+      projectPath: Library\PlayerDataCache\Win64\Data\level1
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\level2
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\level2
+      projectPath: Library\PlayerDataCache\Win64\Data\level2
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\resources.assets
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\resources.assets
+      projectPath: Library\PlayerDataCache\Win64\Data\resources.assets
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+      projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
+      projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.assets.resS
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+      projectPath: Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\sharedassets2.assets
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\sharedassets2.assets
+      projectPath: Library\PlayerDataCache\Win64\Data\sharedassets2.assets
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\ScriptLayoutHashes.txt
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\ScriptLayoutHashes.txt
+      projectPath: Library\PlayerDataCache\Win64\ScriptLayoutHashes.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ProjectSettings.asset
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ProjectSettings.asset
+      projectPath: Library\ProjectSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.pdb
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.pdb
+      projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.pdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptMapper
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ScriptMapper
+      projectPath: Library\ScriptMapper
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\StateCache\SceneView\a14a4e-mainStage.json
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\StateCache\SceneView\a14a4e-mainStage.json
+      projectPath: Library\StateCache\SceneView\a14a4e-mainStage.json
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\assetDatabase3
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\expandedItems
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\expandedItems
+      projectPath: Library\expandedItems
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\00000000000000004000000000000000
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\00\00000000000000004000000000000000
+      projectPath: Library\metadata\00\00000000000000004000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\00000000000000009000000000000000
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\00\00000000000000009000000000000000
+      projectPath: Library\metadata\00\00000000000000009000000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\0000000000000000a100000000000000
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\00\0000000000000000a100000000000000
+      projectPath: Library\metadata\00\0000000000000000a100000000000000
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\00\005c4d80949154e5c87348bb9f5d15eb
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\00\005c4d80949154e5c87348bb9f5d15eb
+      projectPath: Library\metadata\00\005c4d80949154e5c87348bb9f5d15eb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\06\06b575597b644fe8ba88495149d01b66
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\06\06b575597b644fe8ba88495149d01b66
+      projectPath: Library\metadata\06\06b575597b644fe8ba88495149d01b66
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\10\1067213df0c64b319bc81e73be809b1a
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\10\1067213df0c64b319bc81e73be809b1a
+      projectPath: Library\metadata\10\1067213df0c64b319bc81e73be809b1a
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\1c\1cf679539c5e5499e8856aaacf1fc32f
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\1c\1cf679539c5e5499e8856aaacf1fc32f
+      projectPath: Library\metadata\1c\1cf679539c5e5499e8856aaacf1fc32f
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\30\301fbaa0e62e44fd2a7383bd338a2898
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\30\301fbaa0e62e44fd2a7383bd338a2898
+      projectPath: Library\metadata\30\301fbaa0e62e44fd2a7383bd338a2898
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\33\3385f7527e5be4c65b3a5294e8995ff8
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\33\3385f7527e5be4c65b3a5294e8995ff8
+      projectPath: Library\metadata\33\3385f7527e5be4c65b3a5294e8995ff8
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\3a\3a2bf0128e2dd664f91dfba49e36a012
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\3a\3a2bf0128e2dd664f91dfba49e36a012
+      projectPath: Library\metadata\3a\3a2bf0128e2dd664f91dfba49e36a012
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+      projectPath: Library\metadata\3a\3a84de5cd0624681b6b6dcd8921d912a
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\3c\3c61c79a991f84470843243e9710743e
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\3c\3c61c79a991f84470843243e9710743e
+      projectPath: Library\metadata\3c\3c61c79a991f84470843243e9710743e
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\40\405b9b51bb344a128608d968297df79c
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\40\405b9b51bb344a128608d968297df79c
+      projectPath: Library\metadata\40\405b9b51bb344a128608d968297df79c
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+      projectPath: Library\metadata\41\4113173d5e95493ab8765d7b08371de4
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\42\42064bc130be4c44b288d249a44b356f
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\42\42064bc130be4c44b288d249a44b356f
+      projectPath: Library\metadata\42\42064bc130be4c44b288d249a44b356f
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+      projectPath: Library\metadata\4a\4a3ecb1425d14502837abea459cf2b70
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+      projectPath: Library\metadata\4b\4b3fa4bde7f1451a8218c03ee6a8ded8
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+      projectPath: Library\metadata\4b\4ba2329b63d54f0187bcaa12486b1b0f
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+      projectPath: Library\metadata\53\53ebcfaa2e1e4e2dbc85882cd5a73fa1
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+      projectPath: Library\metadata\5f\5f32cd94baa94578a686d4b9d6b660f7
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\61\615c2719eb522eb4b90ecfe52d2c2b1f
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\61\615c2719eb522eb4b90ecfe52d2c2b1f
+      projectPath: Library\metadata\61\615c2719eb522eb4b90ecfe52d2c2b1f
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\61\615c2719eb522eb4b90ecfe52d2c2b1f.info
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\61\615c2719eb522eb4b90ecfe52d2c2b1f.info
+      projectPath: Library\metadata\61\615c2719eb522eb4b90ecfe52d2c2b1f.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\62\6277a751c6c9f46359fc7004b3ee12f0
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\62\6277a751c6c9f46359fc7004b3ee12f0
+      projectPath: Library\metadata\62\6277a751c6c9f46359fc7004b3ee12f0
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\66\669717f3193a457b9bad9665ebcae836
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\66\669717f3193a457b9bad9665ebcae836
+      projectPath: Library\metadata\66\669717f3193a457b9bad9665ebcae836
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+      projectPath: Library\metadata\6a\6a10b2909283487f913b00d94cd3faf5
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\6d\6d6f82a762acb4417b895d3babc790f9
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\6d\6d6f82a762acb4417b895d3babc790f9
+      projectPath: Library\metadata\6d\6d6f82a762acb4417b895d3babc790f9
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+      projectPath: Library\metadata\76\7668179ede524d6396c8b7d84461ea29
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\79\797cf0c5f1b7e4e1ab17481bd9b698eb
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\79\797cf0c5f1b7e4e1ab17481bd9b698eb
+      projectPath: Library\metadata\79\797cf0c5f1b7e4e1ab17481bd9b698eb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\7b\7b87dac66d6e74d5f848d26f169bbe89
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\7b\7b87dac66d6e74d5f848d26f169bbe89
+      projectPath: Library\metadata\7b\7b87dac66d6e74d5f848d26f169bbe89
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\7d\7dd9fdfc675f92e4493194388cfaa286
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\7d\7dd9fdfc675f92e4493194388cfaa286
+      projectPath: Library\metadata\7d\7dd9fdfc675f92e4493194388cfaa286
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\7d\7dd9fdfc675f92e4493194388cfaa286.info
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\7d\7dd9fdfc675f92e4493194388cfaa286.info
+      projectPath: Library\metadata\7d\7dd9fdfc675f92e4493194388cfaa286.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+      projectPath: Library\metadata\80\80a3616ca19596e4da0f10f14d241e9f
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+      projectPath: Library\metadata\84\844f815391db42d49455cbf1a7bfc434
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+      projectPath: Library\metadata\87\870353891bb340e2b2a9c8707e7419ba
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\87\87738e82a4f047cc947cff8a2ccea594
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\87\87738e82a4f047cc947cff8a2ccea594
+      projectPath: Library\metadata\87\87738e82a4f047cc947cff8a2ccea594
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\8c\8c25f8b5c9da143328c516248414b95d
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\8c\8c25f8b5c9da143328c516248414b95d
+      projectPath: Library\metadata\8c\8c25f8b5c9da143328c516248414b95d
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\8c\8c557fd3927f83444816f7c4d000228c
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\8c\8c557fd3927f83444816f7c4d000228c
+      projectPath: Library\metadata\8c\8c557fd3927f83444816f7c4d000228c
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\90\907731821455c4fa989ac14278e02251
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\90\907731821455c4fa989ac14278e02251
+      projectPath: Library\metadata\90\907731821455c4fa989ac14278e02251
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\ab\ab866bd39382069418f5c179c1e1ab3e
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\ab\ab866bd39382069418f5c179c1e1ab3e
+      projectPath: Library\metadata\ab\ab866bd39382069418f5c179c1e1ab3e
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\af\afd7697844f4142f9aa91471c1fba506
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\af\afd7697844f4142f9aa91471c1fba506
+      projectPath: Library\metadata\af\afd7697844f4142f9aa91471c1fba506
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\b0\b0c12f0066bd444a1b3a900679169f30
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\b0\b0c12f0066bd444a1b3a900679169f30
+      projectPath: Library\metadata\b0\b0c12f0066bd444a1b3a900679169f30
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\b5\b5da970776034f77a070d99423d68791
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\b5\b5da970776034f77a070d99423d68791
+      projectPath: Library\metadata\b5\b5da970776034f77a070d99423d68791
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\b9\b9f324f08cd904ec986357c98dd9eaa6
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\b9\b9f324f08cd904ec986357c98dd9eaa6
+      projectPath: Library\metadata\b9\b9f324f08cd904ec986357c98dd9eaa6
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\ba\bac185a28e198c1419b649ca946942ea
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\ba\bac185a28e198c1419b649ca946942ea
+      projectPath: Library\metadata\ba\bac185a28e198c1419b649ca946942ea
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\bf\bfd715cd54ab84c22b128149c12b516c
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\bf\bfd715cd54ab84c22b128149c12b516c
+      projectPath: Library\metadata\bf\bfd715cd54ab84c22b128149c12b516c
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\da\da0b41deddf0a4414b09681018c171f1
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\da\da0b41deddf0a4414b09681018c171f1
+      projectPath: Library\metadata\da\da0b41deddf0a4414b09681018c171f1
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+      projectPath: Library\metadata\dc\dc443db3e92b4983b9738c1131f555cb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\e4\e410c35491615e3409d5be1c799bab71
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\e4\e410c35491615e3409d5be1c799bab71
+      projectPath: Library\metadata\e4\e410c35491615e3409d5be1c799bab71
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\e4\e410c35491615e3409d5be1c799bab71.info
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\e4\e410c35491615e3409d5be1c799bab71.info
+      projectPath: Library\metadata\e4\e410c35491615e3409d5be1c799bab71.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a
+      projectPath: Library\metadata\e4\e4f4cf1b9b434137a499903a7a1d651a
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\e5\e53bc96d2d054b8cbc811f0d73e761eb
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\e5\e53bc96d2d054b8cbc811f0d73e761eb
+      projectPath: Library\metadata\e5\e53bc96d2d054b8cbc811f0d73e761eb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
+      projectPath: Library\metadata\ea\ead147da21254ff9a0a936bdd75e1680
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
+      projectPath: Library\metadata\ed\ed7343f30e3843b3afda8f8b02669cea
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+      projectPath: Library\metadata\f5\f5f67c52d1564df4a8936ccd202a3bd8
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\f6\f68d88b9933cd4204925b22192bf15b4
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\f6\f68d88b9933cd4204925b22192bf15b4
+      projectPath: Library\metadata\f6\f68d88b9933cd4204925b22192bf15b4
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+      projectPath: Library\metadata\f7\f70555f144d8491a825f0804e09c671c
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\f8\f851ca8f9604f442aafccf60a6713ce9
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\f8\f851ca8f9604f442aafccf60a6713ce9
+      projectPath: Library\metadata\f8\f851ca8f9604f442aafccf60a6713ce9
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\fe\fe684bbd80eab45778b9eb316893ff7c
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\fe\fe684bbd80eab45778b9eb316893ff7c
+      projectPath: Library\metadata\fe\fe684bbd80eab45778b9eb316893ff7c
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Logs\Packages-Update.log
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Logs\Packages-Update.log
+      projectPath: Logs\Packages-Update.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Packages\manifest.json
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp-Editor-firstpass.csprojAssemblyReference.cache
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: ea32e9748f8a99e1b0ecfe83d889daf444c86b17
     mergeA: 
     mergeB: 
