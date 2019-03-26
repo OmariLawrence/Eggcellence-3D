@@ -37,6 +37,7 @@ public class thrower_net : NetworkBehaviour
     private void OnCollisionEnter(Collision collision)
     {
         print("collided");
+        FindObjectOfType<AudioManager>().Play("eggCrack");
         if (collision.gameObject.tag != "Player")
         {
             return;
