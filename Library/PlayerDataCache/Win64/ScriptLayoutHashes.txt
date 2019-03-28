@@ -3,8 +3,11 @@ PlayerPath?
 C:/Users/olawr/Desktop/Eggcellence 3D/Eggcellence 3D.exe
 SceneListBegin?
 Assets/Scenes/Menu.unity
+Assets/Scenes/LevelMenu.unity
 Assets/Scenes/Lobby.unity
 Assets/Scenes/multiplayer_matchmaking.unity
+Assets/Scenes/forestLobby.unity
+Assets/Scenes/FrittataForest.unity
 SceneListEnd?
 44a4795b44b760564c025db6f856c68d Assembly-CSharp.dll:Prototype.NetworkLobby.LobbyMainMenu
 984dcc0ba3707b7691fbdca8ff508d28 Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
@@ -127,6 +130,7 @@ fac48cf8ffb4345df3856f5bfa2c15c0 Assembly-CSharp.dll:.shutdown
 7fb9de8dcf73854b6b328eca1f7a6e6d Unity.Analytics.Tracker.dll:UnityEngine.Analytics.AnalyticsTracker
 94017dcc9f00fe671ea7dc427b4da011 Unity.TextMeshPro.dll:TMPro.TMP_SpriteAsset
 114e8c1e8771e0e7ba48ab7a8aefd655 Assembly-CSharp.dll:.playerfollow
+66056c2209ff8e6b238f8b056c7eb331 Assembly-CSharp.dll:.AudioManager
 34ac6491c3792a476455bf2c52e14c34 Assembly-CSharp.dll:.RotatingCameraController
 cebbd852e7c2db5bf87b2b7f5369dd27 Assembly-CSharp.dll:.playermovement
 afc5b93a7b192de2dcb3832fe35a5c7e Assembly-CSharp.dll:.eggRotater
@@ -157,6 +161,7 @@ ad9173d3a69d99153f38ed4b62226129 UnityEngine.Networking.dll:UnityEngine.Networki
 510fefd6a544e16a3ffefa557ddcba39 Unity.TextMeshPro.dll:TMPro.PackageResourceImporterWindow
 aa82b3ce4c0c9b227036c0337315c5d3 Unity.TextMeshPro.dll:TMPro.TMP_FontAsset
 e51c09a4cc447f11db225afcd8e3e490 Unity.TextMeshPro.dll:TMPro.TMP_Settings
+71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.LevelMenu
 cf96e5f7b3d069bab453925bd41be04e UnityEngine.TestRunner.dll:UnityEngine.TestTools.EnumerableSetUpTearDownCommandState
 71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.Callbacks.PlayModeRunnerCallback
 259d013faac28e8ba0aa2a7542273735 UnityEngine.TestRunner.dll:UnityEngine.TestTools.TestRunner.PlaymodeTestsController
@@ -186,4 +191,5 @@ c6666661329916e218bee7f5e79e60f5 Unity.TextMeshPro.dll:TMPro.TextMeshPro
 8649814970b42d345b89944b862453cc Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
 88f1d4a52343f9ae6e1509f933b86788 Assembly-CSharp.dll:.thrower
 ec47a49478d99d9bebb10dcf002ea058 Assembly-CSharp.dll:Prototype.NetworkLobby.LobbyServerList
-66056c2209ff8e6b238f8b056c7eb331 Assembly-CSharp.dll:.AudioManager
+e65f6ff36a2ef09a037813afce823ad6 Assembly-CSharp.dll:.PlayerNamePlate
+d65c2b1dd78ce6ad2e846a1e95bbde0e Assembly-CSharp.dll:.Player

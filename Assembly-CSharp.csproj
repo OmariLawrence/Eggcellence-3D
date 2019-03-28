@@ -85,8 +85,10 @@
     <Compile Include="Assets\scripts\not networked\spawner.cs" />
     <Compile Include="Assets\scripts\not networked\thrower.cs" />
     <Compile Include="Assets\scripts\optionsmenu.cs" />
+    <Compile Include="Assets\scripts\Player.cs" />
     <Compile Include="Assets\scripts\playerfollow.cs" />
     <Compile Include="Assets\scripts\playermoverment_net.cs" />
+    <Compile Include="Assets\scripts\PlayerNamePlate.cs" />
     <Compile Include="Assets\scripts\RotatingCameraController.cs" />
     <Compile Include="Assets\scripts\shutdown.cs" />
     <Compile Include="Assets\scripts\Sound.cs" />
