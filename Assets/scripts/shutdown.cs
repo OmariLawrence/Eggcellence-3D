@@ -27,18 +27,18 @@ public class shutdown : MonoBehaviour
         {
             if (nlm != null && hud != null)
             {
-                //nlm.enabled = false;
+                nlm.enabled = false;
                 hud.enabled = false;
             }
         }
-        if(SceneManager.GetActiveScene().name == "Lobby")
+        if(SceneManager.GetActiveScene().name.Contains("Lobby"))
         {
-            //nlm.enabled = true;
+            nlm.enabled = true;
             hud.enabled = true;
         }
         else
         {
-            //nlm.enabled = false;
+            nlm.enabled = false;
             hud.enabled = false;
         }
         

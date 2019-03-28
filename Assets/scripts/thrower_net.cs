@@ -38,6 +38,7 @@ public class thrower_net : NetworkBehaviour
     {
         print("collided");
         FindObjectOfType<AudioManager>().Play("eggCrack");
+        Destroy(gameObject);
         if (collision.gameObject.tag != "Player")
         {
             return;
@@ -49,6 +50,6 @@ public class thrower_net : NetworkBehaviour
         {
             h.takeDamage(1);
         }
-        Destroy(gameObject);
+        
     }
 }

@@ -12,9 +12,18 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu.unity
     guid: d3c7c34d1fdae1947bcaa200c32f1a28
   - enabled: 1
+    path: Assets/Scenes/LevelMenu.unity
+    guid: 11beb88cdd3123540b3409fe4b83ae67
+  - enabled: 1
     path: Assets/Scenes/Lobby.unity
     guid: ad43cc95d39eea7458fc73e93327a6d1
   - enabled: 1
     path: Assets/Scenes/multiplayer_matchmaking.unity
     guid: c40977d0e7fd4e3479651f7d493a9dd7
+  - enabled: 1
+    path: Assets/Scenes/forestLobby.unity
+    guid: 77fe237748c13e947945091c8207bfc6
+  - enabled: 1
+    path: Assets/Scenes/FrittataForest.unity
+    guid: 574d6f94be8080948975dc6e349f887c
   m_configObjects: {}

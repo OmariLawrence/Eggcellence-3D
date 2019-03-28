@@ -13,9 +13,489 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-03-26T11:35:52.573-03:00
-  initializedAtString: 2019-03-26T11:35:52.573-03:00
+  lastUpdatedAtString: 2019-03-28T16:50:04.502-03:00
+  initializedAtString: 2019-03-28T15:42:12.252-03:00
   log:
+  - commitID: 4254b7a2132ff73c3982cf60bba6846b82d257e8
+    mergeA: 
+    mergeB: 
+    authorName: OmariLawrence
+    authorEmail: originalolawrence@gmail.com
+    commitEmail: originalolawrence@gmail.com
+    commitName: OmariLawrence
+    summary: added sound manager
+    description: 
+    timeString: 2019-03-26T11:44:22.000-04:00
+    commitTimeString: 2019-03-26T11:44:22.000-04:00
+    changes:
+    - path: .vs\Eggcellence 3D\v15\.suo
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\.vs\Eggcellence 3D\v15\.suo
+      projectPath: .vs\Eggcellence 3D\v15\.suo
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: .vs\Eggcellence 3D\v15\Server\sqlite3\storage.ide-shm
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\.vs\Eggcellence 3D\v15\Server\sqlite3\storage.ide-shm
+      projectPath: .vs\Eggcellence 3D\v15\Server\sqlite3\storage.ide-shm
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: .vs\Eggcellence 3D\v15\Server\sqlite3\storage.ide-wal
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\.vs\Eggcellence 3D\v15\Server\sqlite3\storage.ide-wal
+      projectPath: .vs\Eggcellence 3D\v15\Server\sqlite3\storage.ide-wal
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assembly-CSharp.csproj
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assembly-CSharp.csproj
+      projectPath: Assembly-CSharp.csproj
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Audio.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\Audio.meta
+      projectPath: Assets\Audio.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Audio\AudioManager.prefab
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\Audio\AudioManager.prefab
+      projectPath: Assets\Audio\AudioManager.prefab
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Audio\AudioManager.prefab.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\Audio\AudioManager.prefab.meta
+      projectPath: Assets\Audio\AudioManager.prefab.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Audio\MainMixer.mixer
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\Audio\MainMixer.mixer
+      projectPath: Assets\Audio\MainMixer.mixer
+      originalPath: Assets\MainMixer.mixer
+      status: 6
+      staged: 0
+    - path: Assets\Audio\MainMixer.mixer.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\Audio\MainMixer.mixer.meta
+      projectPath: Assets\Audio\MainMixer.mixer.meta
+      originalPath: Assets\MainMixer.mixer.meta
+      status: 6
+      staged: 0
+    - path: Assets\Audio\eggCrack.mp3
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\Audio\eggCrack.mp3
+      projectPath: Assets\Audio\eggCrack.mp3
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Audio\eggCrack.mp3.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\Audio\eggCrack.mp3.meta
+      projectPath: Assets\Audio\eggCrack.mp3.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Scenes\Lobby.unity
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\Scenes\Lobby.unity
+      projectPath: Assets\Scenes\Lobby.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scenes\Menu.unity
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\Scenes\Menu.unity
+      projectPath: Assets\Scenes\Menu.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Scenes\multiplayer_matchmaking.unity
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\Scenes\multiplayer_matchmaking.unity
+      projectPath: Assets\Scenes\multiplayer_matchmaking.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\misc\displayEgg.prefab
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\misc\displayEgg.prefab
+      projectPath: Assets\misc\displayEgg.prefab
+      originalPath: Assets\displayEgg.prefab
+      status: 6
+      staged: 0
+    - path: Assets\misc\displayEgg.prefab.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\misc\displayEgg.prefab.meta
+      projectPath: Assets\misc\displayEgg.prefab.meta
+      originalPath: Assets\displayEgg.prefab.meta
+      status: 6
+      staged: 0
+    - path: Assets\misc\orange.asset
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\misc\orange.asset
+      projectPath: Assets\misc\orange.asset
+      originalPath: Assets\orange.asset
+      status: 6
+      staged: 0
+    - path: Assets\misc\orange.asset.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\misc\orange.asset.meta
+      projectPath: Assets\misc\orange.asset.meta
+      originalPath: Assets\orange.asset.meta
+      status: 6
+      staged: 0
+    - path: Assets\scripts\AudioManager.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\scripts\AudioManager.cs
+      projectPath: Assets\scripts\AudioManager.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\scripts\AudioManager.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\scripts\AudioManager.cs.meta
+      projectPath: Assets\scripts\AudioManager.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\scripts\Sound.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\scripts\Sound.cs
+      projectPath: Assets\scripts\Sound.cs
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\scripts\Sound.cs.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\scripts\Sound.cs.meta
+      projectPath: Assets\scripts\Sound.cs.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\scripts\thrower_net.cs
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\scripts\thrower_net.cs
+      projectPath: Assets\scripts\thrower_net.cs
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\CurrentLayout.dwlt
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\InspectorExpandedItems.asset
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\InspectorExpandedItems.asset
+      projectPath: Library\InspectorExpandedItems.asset
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\LastBuild.buildreport
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\LastBuild.buildreport
+      projectPath: Library\LastBuild.buildreport
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\LastSceneManagerSetup.txt
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\LastSceneManagerSetup.txt
+      projectPath: Library\LastSceneManagerSetup.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\Unity.Analytics.DataPrivacy.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\Managed\Unity.Analytics.DataPrivacy.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\Unity.Analytics.DataPrivacy.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
+      projectPath: Library\PlayerDataCache\Win64\Data\Managed\Unity.TextMeshPro.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\globalgamemanagers
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\globalgamemanagers
+      projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+      projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\level0
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\level0
+      projectPath: Library\PlayerDataCache\Win64\Data\level0
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\level1
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\level1
+      projectPath: Library\PlayerDataCache\Win64\Data\level1
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\level2
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\level2
+      projectPath: Library\PlayerDataCache\Win64\Data\level2
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\resources.assets
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\resources.assets
+      projectPath: Library\PlayerDataCache\Win64\Data\resources.assets
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+      projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\sharedassets0.resource
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\sharedassets0.resource
+      projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.resource
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+      projectPath: Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\Data\sharedassets2.assets
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\sharedassets2.assets
+      projectPath: Library\PlayerDataCache\Win64\Data\sharedassets2.assets
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\PlayerDataCache\Win64\ScriptLayoutHashes.txt
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\ScriptLayoutHashes.txt
+      projectPath: Library\PlayerDataCache\Win64\ScriptLayoutHashes.txt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\StateCache\SceneView\a14a4e-mainStage.json
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\StateCache\SceneView\a14a4e-mainStage.json
+      projectPath: Library\StateCache\SceneView\a14a4e-mainStage.json
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\assetDatabase3
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\0d\0dcdbb87e2370654cb3274369d69b66c
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\0d\0dcdbb87e2370654cb3274369d69b66c
+      projectPath: Library\metadata\0d\0dcdbb87e2370654cb3274369d69b66c
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\0d\0dcdbb87e2370654cb3274369d69b66c.info
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\0d\0dcdbb87e2370654cb3274369d69b66c.info
+      projectPath: Library\metadata\0d\0dcdbb87e2370654cb3274369d69b66c.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\0d\0dcdbb87e2370654cb3274369d69b66c.resource
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\0d\0dcdbb87e2370654cb3274369d69b66c.resource
+      projectPath: Library\metadata\0d\0dcdbb87e2370654cb3274369d69b66c.resource
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\0e\0e49b183199564840a17de30ecbf4045
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\0e\0e49b183199564840a17de30ecbf4045
+      projectPath: Library\metadata\0e\0e49b183199564840a17de30ecbf4045
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\0e\0eb43be2e9d520c49b53b536ba595a46
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\0e\0eb43be2e9d520c49b53b536ba595a46
+      projectPath: Library\metadata\0e\0eb43be2e9d520c49b53b536ba595a46
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\0e\0eb43be2e9d520c49b53b536ba595a46.info
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\0e\0eb43be2e9d520c49b53b536ba595a46.info
+      projectPath: Library\metadata\0e\0eb43be2e9d520c49b53b536ba595a46.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\18\18b8b24f2921bba4f810132ee54e3130
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\18\18b8b24f2921bba4f810132ee54e3130
+      projectPath: Library\metadata\18\18b8b24f2921bba4f810132ee54e3130
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\18\18b8b24f2921bba4f810132ee54e3130.info
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\18\18b8b24f2921bba4f810132ee54e3130.info
+      projectPath: Library\metadata\18\18b8b24f2921bba4f810132ee54e3130.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\4d\4d67cc2819b47cb428acde10bd9983a8
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\4d\4d67cc2819b47cb428acde10bd9983a8
+      projectPath: Library\metadata\4d\4d67cc2819b47cb428acde10bd9983a8
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\4d\4d67cc2819b47cb428acde10bd9983a8.info
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\4d\4d67cc2819b47cb428acde10bd9983a8.info
+      projectPath: Library\metadata\4d\4d67cc2819b47cb428acde10bd9983a8.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\50\50d41ca5889045c4891cb498480be3c4
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\50\50d41ca5889045c4891cb498480be3c4
+      projectPath: Library\metadata\50\50d41ca5889045c4891cb498480be3c4
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\50\50d41ca5889045c4891cb498480be3c4.info
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\50\50d41ca5889045c4891cb498480be3c4.info
+      projectPath: Library\metadata\50\50d41ca5889045c4891cb498480be3c4.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\58\58a2bff3417cf4345912c3b9423c54b5
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\58\58a2bff3417cf4345912c3b9423c54b5
+      projectPath: Library\metadata\58\58a2bff3417cf4345912c3b9423c54b5
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\58\58a2bff3417cf4345912c3b9423c54b5.info
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\58\58a2bff3417cf4345912c3b9423c54b5.info
+      projectPath: Library\metadata\58\58a2bff3417cf4345912c3b9423c54b5.info
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\7d\7dd9fdfc675f92e4493194388cfaa286
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\7d\7dd9fdfc675f92e4493194388cfaa286
+      projectPath: Library\metadata\7d\7dd9fdfc675f92e4493194388cfaa286
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\94\9462375b52ed1e9429146310597da60c
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\94\9462375b52ed1e9429146310597da60c
+      projectPath: Library\metadata\94\9462375b52ed1e9429146310597da60c
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\ad\ad43cc95d39eea7458fc73e93327a6d1
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\ad\ad43cc95d39eea7458fc73e93327a6d1
+      projectPath: Library\metadata\ad\ad43cc95d39eea7458fc73e93327a6d1
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\d3\d3c7c34d1fdae1947bcaa200c32f1a28
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\d3\d3c7c34d1fdae1947bcaa200c32f1a28
+      projectPath: Library\metadata\d3\d3c7c34d1fdae1947bcaa200c32f1a28
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      projectPath: obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: a8d49ed3889be97b31dcb3734ed077dc06897b12
     mergeA: 
     mergeB: 
