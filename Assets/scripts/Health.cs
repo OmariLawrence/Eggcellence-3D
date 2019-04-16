@@ -10,6 +10,7 @@ public class Health : NetworkBehaviour
     int maxHealth = 10;
     int currHealth;
     public Text info;
+    //public GameObject player;
     // Start is called before the first frame update
     void Start()
     {
@@ -59,7 +60,7 @@ public class Health : NetworkBehaviour
     [ClientRpc]
     void RpcDied()
     {
-        //info = FindObjectOfType<Text>();
+        info = FindObjectOfType<Text>();
         if (isLocalPlayer)
         {
             info.text = "You Lose";
@@ -81,5 +82,19 @@ public class Health : NetworkBehaviour
     void BackToLobby()
     {
         FindObjectOfType<NetworkLobbyManager>().ServerReturnToLobby();
+    }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.tag != "projectile")
+        {
+            return;
+        }
+
+        if (this != null)
+        {
+            this.takeDamage(1);
+        }
+
     }
 }

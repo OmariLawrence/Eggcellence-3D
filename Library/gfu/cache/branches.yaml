@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-04-16T14:33:18.439-03:00
-  initializedAtString: 2019-04-16T14:02:53.312-03:00
-  localBranches: []
+  lastUpdatedAtString: 2019-04-16T15:55:02.343-03:00
+  initializedAtString: 2019-04-16T15:55:02.191-03:00
+  localBranches:
+  - name: master
+    tracking: origin/master
   remoteBranches:
   - name: origin/master
     tracking: '[None]'
@@ -28,8 +30,14 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - master
+    values:
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/OmariLawrence/Eggcellence-3D.git
+      trackingBranch: master
   remoteConfigBranches:
     keys:
     - origin

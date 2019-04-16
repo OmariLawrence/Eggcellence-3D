@@ -13,9 +13,684 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-04-16T14:33:18.676-03:00
-  initializedAtString: 2019-04-16T13:30:41.560-03:00
+  lastUpdatedAtString: 2019-04-16T15:55:03.887-03:00
+  initializedAtString: 2019-04-16T15:55:03.887-03:00
   log:
+  - commitID: 92b8190c771bd1e7259365aeb81974e861a0d3b1
+    mergeA: 
+    mergeB: 
+    authorName: OmariLawrence
+    authorEmail: originalolawrence@gmail.com
+    commitEmail: originalolawrence@gmail.com
+    commitName: OmariLawrence
+    summary: trees added to forest
+    description: 
+    timeString: 2019-04-16T13:48:00.000-04:00
+    commitTimeString: 2019-04-16T13:48:00.000-04:00
+    changes:
+    - path: Assets\Materials\wall texture.mat
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\Materials\wall texture.mat
+      projectPath: Assets\Materials\wall texture.mat
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: "Terrain.asset.meta\tAssets\\Materials\\wall texture.mat.meta"
+      fullPath: "C:\\Users\\olawr\\Documents\\Eggcellence 3D\\Terrain.asset.meta\tAssets\\Materials\\wall
+        texture.mat.meta"
+      projectPath: "Terrain.asset.meta\tAssets\\Materials\\wall texture.mat.meta"
+      originalPath: Assets\New
+      status: 6
+      staged: 0
+    - path: Assets\New Terrain.asset
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\New Terrain.asset
+      projectPath: Assets\New Terrain.asset
+      originalPath: 
+      status: 5
+      staged: 0
+    - path: Assets\Scenes\FrittataForest.unity
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\Scenes\FrittataForest.unity
+      projectPath: Assets\Scenes\FrittataForest.unity
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Assets\Textures\brick wall prev.jpg
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\Textures\brick wall
+        prev.jpg
+      projectPath: Assets\Textures\brick wall prev.jpg
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\brick wall prev.jpg.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\Textures\brick wall
+        prev.jpg.meta
+      projectPath: Assets\Textures\brick wall prev.jpg.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Textures\grass-png-grass-png-image-green-grass-png-picture-png-image-3291.png
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\Textures\grass-png-grass-png-image-green-grass-png-picture-png-image-3291.png
+      projectPath: Assets\Textures\grass-png-grass-png-image-green-grass-png-picture-png-image-3291.png
+      originalPath: Assets\grass-png-grass-png-image-green-grass-png-picture-png-image-3291.png
+      status: 6
+      staged: 0
+    - path: Assets\Textures\grass-png-grass-png-image-green-grass-png-picture-png-image-3291.png.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\Textures\grass-png-grass-png-image-green-grass-png-picture-png-image-3291.png.meta
+      projectPath: Assets\Textures\grass-png-grass-png-image-green-grass-png-picture-png-image-3291.png.meta
+      originalPath: Assets\grass-png-grass-png-image-green-grass-png-picture-png-image-3291.png.meta
+      status: 6
+      staged: 0
+    - path: Assets\Tree_Textures.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\Tree_Textures.meta
+      projectPath: Assets\Tree_Textures.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tree_Textures\diffuse.png
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\Tree_Textures\diffuse.png
+      projectPath: Assets\Tree_Textures\diffuse.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tree_Textures\diffuse.png.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\Tree_Textures\diffuse.png.meta
+      projectPath: Assets\Tree_Textures\diffuse.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tree_Textures\normal_specular.png
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\Tree_Textures\normal_specular.png
+      projectPath: Assets\Tree_Textures\normal_specular.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tree_Textures\normal_specular.png.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\Tree_Textures\normal_specular.png.meta
+      projectPath: Assets\Tree_Textures\normal_specular.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tree_Textures\shadow.png
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\Tree_Textures\shadow.png
+      projectPath: Assets\Tree_Textures\shadow.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tree_Textures\shadow.png.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\Tree_Textures\shadow.png.meta
+      projectPath: Assets\Tree_Textures\shadow.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tree_Textures\translucency_gloss.png
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\Tree_Textures\translucency_gloss.png
+      projectPath: Assets\Tree_Textures\translucency_gloss.png
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\Tree_Textures\translucency_gloss.png.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\Tree_Textures\translucency_gloss.png.meta
+      projectPath: Assets\Tree_Textures\translucency_gloss.png.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\untitled-scene.fbx
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\untitled-scene.fbx
+      projectPath: Assets\untitled-scene.fbx
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Assets\untitled-scene.fbx.meta
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\untitled-scene.fbx.meta
+      projectPath: Assets\untitled-scene.fbx.meta
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\CurrentLayout.dwlt
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\CurrentLayout.dwlt
+      projectPath: Library\CurrentLayout.dwlt
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      projectPath: Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.PackageManagerUI.Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\ShaderCache\0\045b33607658ea5be1ea0f82a02434fa.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\0\045b33607658ea5be1ea0f82a02434fa.bin
+      projectPath: Library\ShaderCache\0\045b33607658ea5be1ea0f82a02434fa.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\0\06c9bd40968db36d26823caacbd85a23.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\0\06c9bd40968db36d26823caacbd85a23.bin
+      projectPath: Library\ShaderCache\0\06c9bd40968db36d26823caacbd85a23.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\0\0c85a1824be8f43a9fbfb2d2ca22c46f.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\0\0c85a1824be8f43a9fbfb2d2ca22c46f.bin
+      projectPath: Library\ShaderCache\0\0c85a1824be8f43a9fbfb2d2ca22c46f.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\1\1a306f42b022ae124c16dc23cc073fbf.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\1\1a306f42b022ae124c16dc23cc073fbf.bin
+      projectPath: Library\ShaderCache\1\1a306f42b022ae124c16dc23cc073fbf.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\1\1d1a4aa63af73929618fd385b7967f09.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\1\1d1a4aa63af73929618fd385b7967f09.bin
+      projectPath: Library\ShaderCache\1\1d1a4aa63af73929618fd385b7967f09.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\1\1e4bacdf7e0b8bf8cc7c53e846f7f77b.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\1\1e4bacdf7e0b8bf8cc7c53e846f7f77b.bin
+      projectPath: Library\ShaderCache\1\1e4bacdf7e0b8bf8cc7c53e846f7f77b.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\2\2d72ac4196f9fcde64a5d638e35f50ed.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\2\2d72ac4196f9fcde64a5d638e35f50ed.bin
+      projectPath: Library\ShaderCache\2\2d72ac4196f9fcde64a5d638e35f50ed.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\2\2d73321aec6699962ab2303ac37c9480.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\2\2d73321aec6699962ab2303ac37c9480.bin
+      projectPath: Library\ShaderCache\2\2d73321aec6699962ab2303ac37c9480.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\3\315bf7be41382e7df981a0551fc36c6a.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\3\315bf7be41382e7df981a0551fc36c6a.bin
+      projectPath: Library\ShaderCache\3\315bf7be41382e7df981a0551fc36c6a.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\3\350e38379a4f1e1041998ea794372e49.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\3\350e38379a4f1e1041998ea794372e49.bin
+      projectPath: Library\ShaderCache\3\350e38379a4f1e1041998ea794372e49.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\3\383b1ca4ff6d4cf7efc00b54ba812af2.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\3\383b1ca4ff6d4cf7efc00b54ba812af2.bin
+      projectPath: Library\ShaderCache\3\383b1ca4ff6d4cf7efc00b54ba812af2.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\4\446145163f7dfda997f21eb2968f844b.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\4\446145163f7dfda997f21eb2968f844b.bin
+      projectPath: Library\ShaderCache\4\446145163f7dfda997f21eb2968f844b.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\4\4d431dc5aff26255f0af95b3a46b0405.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\4\4d431dc5aff26255f0af95b3a46b0405.bin
+      projectPath: Library\ShaderCache\4\4d431dc5aff26255f0af95b3a46b0405.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\5\5394ebd59a7db7a14921a8a53ab08d84.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\5\5394ebd59a7db7a14921a8a53ab08d84.bin
+      projectPath: Library\ShaderCache\5\5394ebd59a7db7a14921a8a53ab08d84.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\5\544283e3f609f6a5098f0d9babb7385b.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\5\544283e3f609f6a5098f0d9babb7385b.bin
+      projectPath: Library\ShaderCache\5\544283e3f609f6a5098f0d9babb7385b.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\5\5e1b0255a54d21dfbc3664c1bd36768b.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\5\5e1b0255a54d21dfbc3664c1bd36768b.bin
+      projectPath: Library\ShaderCache\5\5e1b0255a54d21dfbc3664c1bd36768b.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\6\629571ce847ea4efffe54d1ad027a123.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\6\629571ce847ea4efffe54d1ad027a123.bin
+      projectPath: Library\ShaderCache\6\629571ce847ea4efffe54d1ad027a123.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\6\64a1eea41d64eeb89f561b57229c5e13.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\6\64a1eea41d64eeb89f561b57229c5e13.bin
+      projectPath: Library\ShaderCache\6\64a1eea41d64eeb89f561b57229c5e13.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\6\6a2d98a0a5b2773eaee38e361770de8e.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\6\6a2d98a0a5b2773eaee38e361770de8e.bin
+      projectPath: Library\ShaderCache\6\6a2d98a0a5b2773eaee38e361770de8e.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\6\6c78cd320f9d12bc532003a4eff7e887.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\6\6c78cd320f9d12bc532003a4eff7e887.bin
+      projectPath: Library\ShaderCache\6\6c78cd320f9d12bc532003a4eff7e887.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\7\782362afcc18a924c1cae72d743c7601.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\7\782362afcc18a924c1cae72d743c7601.bin
+      projectPath: Library\ShaderCache\7\782362afcc18a924c1cae72d743c7601.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\7\7a4c77d04f2079ee7b4d844a28c0e80a.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\7\7a4c77d04f2079ee7b4d844a28c0e80a.bin
+      projectPath: Library\ShaderCache\7\7a4c77d04f2079ee7b4d844a28c0e80a.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\7\7b27871aeb77232300b815a17182aab8.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\7\7b27871aeb77232300b815a17182aab8.bin
+      projectPath: Library\ShaderCache\7\7b27871aeb77232300b815a17182aab8.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\7\7c2f57fdbf969db4a7ae5e8af5f6d1dc.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\7\7c2f57fdbf969db4a7ae5e8af5f6d1dc.bin
+      projectPath: Library\ShaderCache\7\7c2f57fdbf969db4a7ae5e8af5f6d1dc.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\8\8981bffb57febb2380564274e7bd56a3.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\8\8981bffb57febb2380564274e7bd56a3.bin
+      projectPath: Library\ShaderCache\8\8981bffb57febb2380564274e7bd56a3.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\8\8b3338398b9b2b08f9631d16a1d56d67.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\8\8b3338398b9b2b08f9631d16a1d56d67.bin
+      projectPath: Library\ShaderCache\8\8b3338398b9b2b08f9631d16a1d56d67.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\8\8bc5203768d15f99e9357cb5a477fdd4.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\8\8bc5203768d15f99e9357cb5a477fdd4.bin
+      projectPath: Library\ShaderCache\8\8bc5203768d15f99e9357cb5a477fdd4.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\8\8de28bb0291b20399a03f8fe6b92d8e3.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\8\8de28bb0291b20399a03f8fe6b92d8e3.bin
+      projectPath: Library\ShaderCache\8\8de28bb0291b20399a03f8fe6b92d8e3.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\8\8e70d7cf55cf91c2fb2770b8a62e6583.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\8\8e70d7cf55cf91c2fb2770b8a62e6583.bin
+      projectPath: Library\ShaderCache\8\8e70d7cf55cf91c2fb2770b8a62e6583.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\9\9cc567c85d41e10e3d1bd1a5172a2d9f.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\9\9cc567c85d41e10e3d1bd1a5172a2d9f.bin
+      projectPath: Library\ShaderCache\9\9cc567c85d41e10e3d1bd1a5172a2d9f.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\9\9d64cdcf13fbe67a1b4da0c13fedcb4f.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\9\9d64cdcf13fbe67a1b4da0c13fedcb4f.bin
+      projectPath: Library\ShaderCache\9\9d64cdcf13fbe67a1b4da0c13fedcb4f.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\a\aa158de3b1c6cc2e42459888d49d2ba9.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\a\aa158de3b1c6cc2e42459888d49d2ba9.bin
+      projectPath: Library\ShaderCache\a\aa158de3b1c6cc2e42459888d49d2ba9.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\b\b23d2aabf430d971fda244f4f1080bd1.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\b\b23d2aabf430d971fda244f4f1080bd1.bin
+      projectPath: Library\ShaderCache\b\b23d2aabf430d971fda244f4f1080bd1.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\b\b36f70f2ed1db8d1d7545a60c69898f3.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\b\b36f70f2ed1db8d1d7545a60c69898f3.bin
+      projectPath: Library\ShaderCache\b\b36f70f2ed1db8d1d7545a60c69898f3.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\b\b6407738bc6d656bb56d0bbc1ae2d8d6.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\b\b6407738bc6d656bb56d0bbc1ae2d8d6.bin
+      projectPath: Library\ShaderCache\b\b6407738bc6d656bb56d0bbc1ae2d8d6.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\b\bc7b1abedb79a8bbdaeba55c16da3a43.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\b\bc7b1abedb79a8bbdaeba55c16da3a43.bin
+      projectPath: Library\ShaderCache\b\bc7b1abedb79a8bbdaeba55c16da3a43.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\c\c737d8651a400bbf543f28bde0150f2b.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\c\c737d8651a400bbf543f28bde0150f2b.bin
+      projectPath: Library\ShaderCache\c\c737d8651a400bbf543f28bde0150f2b.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\c\c8699fada4571e5d41e9bc37e0359763.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\c\c8699fada4571e5d41e9bc37e0359763.bin
+      projectPath: Library\ShaderCache\c\c8699fada4571e5d41e9bc37e0359763.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\d\d4d30cb7bfa486a8d74923921922e789.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\d\d4d30cb7bfa486a8d74923921922e789.bin
+      projectPath: Library\ShaderCache\d\d4d30cb7bfa486a8d74923921922e789.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\d\d4deff650559b6ec0797de2818cac12f.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\d\d4deff650559b6ec0797de2818cac12f.bin
+      projectPath: Library\ShaderCache\d\d4deff650559b6ec0797de2818cac12f.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\d\d510248df3bec5880b0f31c42f19479f.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\d\d510248df3bec5880b0f31c42f19479f.bin
+      projectPath: Library\ShaderCache\d\d510248df3bec5880b0f31c42f19479f.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\d\d8dabe8b38289d2fc407dc32211de917.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\d\d8dabe8b38289d2fc407dc32211de917.bin
+      projectPath: Library\ShaderCache\d\d8dabe8b38289d2fc407dc32211de917.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\d\dc98c433da669a2795f6f992764473d3.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\d\dc98c433da669a2795f6f992764473d3.bin
+      projectPath: Library\ShaderCache\d\dc98c433da669a2795f6f992764473d3.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\d\dd592050e7e64d7c22abc69cfd7e56c0.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\d\dd592050e7e64d7c22abc69cfd7e56c0.bin
+      projectPath: Library\ShaderCache\d\dd592050e7e64d7c22abc69cfd7e56c0.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\e\e5782b58c637fd466daec64428b6d319.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\e\e5782b58c637fd466daec64428b6d319.bin
+      projectPath: Library\ShaderCache\e\e5782b58c637fd466daec64428b6d319.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\e\e7f95040306e71ca39d8bd320e8f29a5.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\e\e7f95040306e71ca39d8bd320e8f29a5.bin
+      projectPath: Library\ShaderCache\e\e7f95040306e71ca39d8bd320e8f29a5.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\e\e8d497de093c0448be062b78ae5ef69e.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\e\e8d497de093c0448be062b78ae5ef69e.bin
+      projectPath: Library\ShaderCache\e\e8d497de093c0448be062b78ae5ef69e.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\e\ed051233a680ad94570ef8a8de3faf13.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\e\ed051233a680ad94570ef8a8de3faf13.bin
+      projectPath: Library\ShaderCache\e\ed051233a680ad94570ef8a8de3faf13.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\e\ed322cc3ce5ec37dd4f78814f3a47e96.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\e\ed322cc3ce5ec37dd4f78814f3a47e96.bin
+      projectPath: Library\ShaderCache\e\ed322cc3ce5ec37dd4f78814f3a47e96.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\e\edbfff862a7ba8d927c65a16398d0d65.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\e\edbfff862a7ba8d927c65a16398d0d65.bin
+      projectPath: Library\ShaderCache\e\edbfff862a7ba8d927c65a16398d0d65.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\f\f3c00bb79f8f432e809e36b39bdf0e1b.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\f\f3c00bb79f8f432e809e36b39bdf0e1b.bin
+      projectPath: Library\ShaderCache\f\f3c00bb79f8f432e809e36b39bdf0e1b.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\f\f48c93cbf74af0520ce253bc5729cc75.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\f\f48c93cbf74af0520ce253bc5729cc75.bin
+      projectPath: Library\ShaderCache\f\f48c93cbf74af0520ce253bc5729cc75.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\f\f91eb9c9459292b36521f082028cb7f7.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\f\f91eb9c9459292b36521f082028cb7f7.bin
+      projectPath: Library\ShaderCache\f\f91eb9c9459292b36521f082028cb7f7.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\ShaderCache\f\f9fd1231713a14b1632f9dd65d35a9ef.bin
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\ShaderCache\f\f9fd1231713a14b1632f9dd65d35a9ef.bin
+      projectPath: Library\ShaderCache\f\f9fd1231713a14b1632f9dd65d35a9ef.bin
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\StateCache\Hierarchy\dc7e3b-19682540d8a014522a.json
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\StateCache\Hierarchy\dc7e3b-19682540d8a014522a.json
+      projectPath: Library\StateCache\Hierarchy\dc7e3b-19682540d8a014522a.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\StateCache\SceneView\a14a4e-19682540d8a014522a.json
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\StateCache\SceneView\a14a4e-19682540d8a014522a.json
+      projectPath: Library\StateCache\SceneView\a14a4e-19682540d8a014522a.json
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\StateCache\SceneView\a14a4e-mainStage.json
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\StateCache\SceneView\a14a4e-mainStage.json
+      projectPath: Library\StateCache\SceneView\a14a4e-mainStage.json
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\assetDatabase3
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\assetDatabase3
+      projectPath: Library\assetDatabase3
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\metadata\23\2322070ff616ed0499850719d444d77e
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\23\2322070ff616ed0499850719d444d77e
+      projectPath: Library\metadata\23\2322070ff616ed0499850719d444d77e
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\23\2322070ff616ed0499850719d444d77e.info
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\23\2322070ff616ed0499850719d444d77e.info
+      projectPath: Library\metadata\23\2322070ff616ed0499850719d444d77e.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\32\323e3869170a88146921dedc3c8f1d71
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\32\323e3869170a88146921dedc3c8f1d71
+      projectPath: Library\metadata\32\323e3869170a88146921dedc3c8f1d71
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\32\323e3869170a88146921dedc3c8f1d71.info
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\32\323e3869170a88146921dedc3c8f1d71.info
+      projectPath: Library\metadata\32\323e3869170a88146921dedc3c8f1d71.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\38\38cf88fb2cb3ddf45b01e824304b7868
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\38\38cf88fb2cb3ddf45b01e824304b7868
+      projectPath: Library\metadata\38\38cf88fb2cb3ddf45b01e824304b7868
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\38\38cf88fb2cb3ddf45b01e824304b7868.info
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\38\38cf88fb2cb3ddf45b01e824304b7868.info
+      projectPath: Library\metadata\38\38cf88fb2cb3ddf45b01e824304b7868.info
+      originalPath: Library\metadata\c3\c379a4bfc00711445b4896d6cd2db4e7.info
+      status: 6
+      staged: 0
+    - path: Library\metadata\48\4838f18480e1b814aba225ae59ee6517
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\48\4838f18480e1b814aba225ae59ee6517
+      projectPath: Library\metadata\48\4838f18480e1b814aba225ae59ee6517
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\48\4838f18480e1b814aba225ae59ee6517.info
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\48\4838f18480e1b814aba225ae59ee6517.info
+      projectPath: Library\metadata\48\4838f18480e1b814aba225ae59ee6517.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\8a\8a9a5feda9d2f034ab0a80f1a147a89b
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\8a\8a9a5feda9d2f034ab0a80f1a147a89b
+      projectPath: Library\metadata\8a\8a9a5feda9d2f034ab0a80f1a147a89b
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\8a\8a9a5feda9d2f034ab0a80f1a147a89b.info
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\8a\8a9a5feda9d2f034ab0a80f1a147a89b.info
+      projectPath: Library\metadata\8a\8a9a5feda9d2f034ab0a80f1a147a89b.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ac\acb74425ddfee844cb02fe0dc91bdb9f
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\ac\acb74425ddfee844cb02fe0dc91bdb9f
+      projectPath: Library\metadata\ac\acb74425ddfee844cb02fe0dc91bdb9f
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ac\acb74425ddfee844cb02fe0dc91bdb9f.info
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\ac\acb74425ddfee844cb02fe0dc91bdb9f.info
+      projectPath: Library\metadata\ac\acb74425ddfee844cb02fe0dc91bdb9f.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\b5\b514011fdb8d35a4d994afe9c19e3ff3
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\b5\b514011fdb8d35a4d994afe9c19e3ff3
+      projectPath: Library\metadata\b5\b514011fdb8d35a4d994afe9c19e3ff3
+      originalPath: Library\metadata\c3\c379a4bfc00711445b4896d6cd2db4e7
+      status: 6
+      staged: 0
+    - path: Library\metadata\b5\b514011fdb8d35a4d994afe9c19e3ff3.info
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\b5\b514011fdb8d35a4d994afe9c19e3ff3.info
+      projectPath: Library\metadata\b5\b514011fdb8d35a4d994afe9c19e3ff3.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\c5\c5df7c613568eef40b3dbf478e374aa7
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\c5\c5df7c613568eef40b3dbf478e374aa7
+      projectPath: Library\metadata\c5\c5df7c613568eef40b3dbf478e374aa7
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\c5\c5df7c613568eef40b3dbf478e374aa7.info
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\c5\c5df7c613568eef40b3dbf478e374aa7.info
+      projectPath: Library\metadata\c5\c5df7c613568eef40b3dbf478e374aa7.info
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: Library\metadata\ee\ee19ca5a3df8663418fd9ec6dcc74676
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\ee\ee19ca5a3df8663418fd9ec6dcc74676
+      projectPath: Library\metadata\ee\ee19ca5a3df8663418fd9ec6dcc74676
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 9d91a3c8493310a2a16673e46ad8f490ba6968c2
     mergeA: 
     mergeB: 
