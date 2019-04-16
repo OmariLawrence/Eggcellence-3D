@@ -31,6 +31,10 @@ public class DeathMatch : NetworkBehaviour
             return null;
         }
 
-        return players[0];
+        Health winner = players[0];
+
+        players = new List<Health>();
+
+        return winner;
     }
 }

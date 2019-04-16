@@ -2,13 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Networking;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class Health : NetworkBehaviour
 {
     int maxHealth = 10;
     int currHealth;
-    Text info;
+    public Text info;
     // Start is called before the first frame update
     void Start()
     {
@@ -23,7 +24,10 @@ public class Health : NetworkBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if(SceneManager.GetActiveScene().name == "FrittataForest" || SceneManager.GetActiveScene().name == "multiplayer_matchmaking")
+        {
+            takeDamage(100);
+        }
     }
 
     public void takeDamage(int amount)
@@ -55,7 +59,7 @@ public class Health : NetworkBehaviour
     [ClientRpc]
     void RpcDied()
     {
-        info = FindObjectOfType<Text>();
+        //info = FindObjectOfType<Text>();
         if (isLocalPlayer)
         {
             info.text = "You Lose";
