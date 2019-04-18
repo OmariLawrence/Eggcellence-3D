@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2019-04-16T16:32:32.121-03:00
-  initializedAtString: 2019-04-16T15:55:01.303-03:00
+  lastUpdatedAtString: 2019-04-18T02:18:34.153-03:00
+  initializedAtString: 2019-04-18T02:15:41.559-03:00
   entries:
   - path: .vs\Eggcellence 3D\v15\.suo
     fullPath: C:\Users\olawr\Documents\Eggcellence 3D\.vs\Eggcellence 3D\v15\.suo
@@ -34,11 +34,61 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+  - path: Assets\Audio\AudioManager.prefab
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\Audio\AudioManager.prefab
+    projectPath: Assets\Audio\AudioManager.prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Audio\helping a friend a little extra faster.wav
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\Audio\helping a friend
+      a little extra faster.wav
+    projectPath: Assets\Audio\helping a friend a little extra faster.wav
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\Audio\helping a friend a little extra faster.wav.meta
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\Audio\helping a friend
+      a little extra faster.wav.meta
+    projectPath: Assets\Audio\helping a friend a little extra faster.wav.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\misc\untitled-scene.fbx
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\misc\untitled-scene.fbx
+    projectPath: Assets\misc\untitled-scene.fbx
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\misc\untitled-scene.fbx.meta
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\misc\untitled-scene.fbx.meta
+    projectPath: Assets\misc\untitled-scene.fbx.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Assets\scripts\AudioManager.cs
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\scripts\AudioManager.cs
+    projectPath: Assets\scripts\AudioManager.cs
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Assets\scripts\Health.cs
     fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\scripts\Health.cs
     projectPath: Assets\scripts\Health.cs
     originalPath: 
     status: 3
+    staged: 0
+  - path: Assets\untitled-scene.fbx
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\untitled-scene.fbx
+    projectPath: Assets\untitled-scene.fbx
+    originalPath: 
+    status: 5
+    staged: 0
+  - path: Assets\untitled-scene.fbx.meta
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Assets\untitled-scene.fbx.meta
+    projectPath: Assets\untitled-scene.fbx.meta
+    originalPath: 
+    status: 5
     staged: 0
   - path: Library\assetDatabase3
     fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\assetDatabase3
@@ -57,6 +107,12 @@ MonoBehaviour:
     projectPath: Library\EditorInstance.json
     originalPath: 
     status: 1
+    staged: 0
+  - path: Library\expandedItems
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    status: 3
     staged: 0
   - path: Library\gfu\cache\branches.yaml
     fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\gfu\cache\branches.yaml
@@ -100,159 +156,93 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+  - path: Library\LastSceneManagerSetup.txt
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000009000000000000000
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\00\00000000000000009000000000000000
+    projectPath: Library\metadata\00\00000000000000009000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\1e\1e836c50ebf5a054689a394c27f805cc
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\1e\1e836c50ebf5a054689a394c27f805cc
+    projectPath: Library\metadata\1e\1e836c50ebf5a054689a394c27f805cc
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\1e\1e836c50ebf5a054689a394c27f805cc.info
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\1e\1e836c50ebf5a054689a394c27f805cc.info
+    projectPath: Library\metadata\1e\1e836c50ebf5a054689a394c27f805cc.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\1e\1e836c50ebf5a054689a394c27f805cc.resource
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\1e\1e836c50ebf5a054689a394c27f805cc.resource
+    projectPath: Library\metadata\1e\1e836c50ebf5a054689a394c27f805cc.resource
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\32\323e3869170a88146921dedc3c8f1d71
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\32\323e3869170a88146921dedc3c8f1d71
+    projectPath: Library\metadata\32\323e3869170a88146921dedc3c8f1d71
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\4d\4d67cc2819b47cb428acde10bd9983a8
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\4d\4d67cc2819b47cb428acde10bd9983a8
+    projectPath: Library\metadata\4d\4d67cc2819b47cb428acde10bd9983a8
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\4d\4d67cc2819b47cb428acde10bd9983a8.info
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\4d\4d67cc2819b47cb428acde10bd9983a8.info
+    projectPath: Library\metadata\4d\4d67cc2819b47cb428acde10bd9983a8.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\50\50d41ca5889045c4891cb498480be3c4
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\50\50d41ca5889045c4891cb498480be3c4
+    projectPath: Library\metadata\50\50d41ca5889045c4891cb498480be3c4
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\50\50d41ca5889045c4891cb498480be3c4.info
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\50\50d41ca5889045c4891cb498480be3c4.info
+    projectPath: Library\metadata\50\50d41ca5889045c4891cb498480be3c4.info
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\7d\7dd9fdfc675f92e4493194388cfaa286
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\7d\7dd9fdfc675f92e4493194388cfaa286
+    projectPath: Library\metadata\7d\7dd9fdfc675f92e4493194388cfaa286
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\7d\7dd9fdfc675f92e4493194388cfaa286.info
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\7d\7dd9fdfc675f92e4493194388cfaa286.info
+    projectPath: Library\metadata\7d\7dd9fdfc675f92e4493194388cfaa286.info
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Library\metadata\af\af90101e1814e3247ae2610e7037d4be
     fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\metadata\af\af90101e1814e3247ae2610e7037d4be
     projectPath: Library\metadata\af\af90101e1814e3247ae2610e7037d4be
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\PlayerDataCache\Win64\Data\GI\level5\3b\3b7d6decf2ece375335003eea02605a2.caw
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\GI\level5\3b\3b7d6decf2ece375335003eea02605a2.caw
-    projectPath: Library\PlayerDataCache\Win64\Data\GI\level5\3b\3b7d6decf2ece375335003eea02605a2.caw
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\PlayerDataCache\Win64\Data\GI\level5\3b\3b7d6decf2ece375335003eea02605a2.ecm
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\GI\level5\3b\3b7d6decf2ece375335003eea02605a2.ecm
-    projectPath: Library\PlayerDataCache\Win64\Data\GI\level5\3b\3b7d6decf2ece375335003eea02605a2.ecm
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\PlayerDataCache\Win64\Data\GI\level5\3b\3b7d6decf2ece375335003eea02605a2.iws.sse
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\GI\level5\3b\3b7d6decf2ece375335003eea02605a2.iws.sse
-    projectPath: Library\PlayerDataCache\Win64\Data\GI\level5\3b\3b7d6decf2ece375335003eea02605a2.iws.sse
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\PlayerDataCache\Win64\Data\GI\level5\3b\3b7d6decf2ece375335003eea02605a2.rgb
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\GI\level5\3b\3b7d6decf2ece375335003eea02605a2.rgb
-    projectPath: Library\PlayerDataCache\Win64\Data\GI\level5\3b\3b7d6decf2ece375335003eea02605a2.rgb
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\PlayerDataCache\Win64\Data\GI\level5\3b\3b7d6decf2ece375335003eea02605a2.rsc.sse
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\GI\level5\3b\3b7d6decf2ece375335003eea02605a2.rsc.sse
-    projectPath: Library\PlayerDataCache\Win64\Data\GI\level5\3b\3b7d6decf2ece375335003eea02605a2.rsc.sse
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\PlayerDataCache\Win64\Data\GI\level5\3b\3b7d6decf2ece375335003eea02605a2.vis
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\GI\level5\3b\3b7d6decf2ece375335003eea02605a2.vis
-    projectPath: Library\PlayerDataCache\Win64\Data\GI\level5\3b\3b7d6decf2ece375335003eea02605a2.vis
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\PlayerDataCache\Win64\Data\GI\level5\3d\3d7ae40d4d2e953585cbdc613d2200bb.caw
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\GI\level5\3d\3d7ae40d4d2e953585cbdc613d2200bb.caw
-    projectPath: Library\PlayerDataCache\Win64\Data\GI\level5\3d\3d7ae40d4d2e953585cbdc613d2200bb.caw
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\PlayerDataCache\Win64\Data\GI\level5\3d\3d7ae40d4d2e953585cbdc613d2200bb.ecm
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\GI\level5\3d\3d7ae40d4d2e953585cbdc613d2200bb.ecm
-    projectPath: Library\PlayerDataCache\Win64\Data\GI\level5\3d\3d7ae40d4d2e953585cbdc613d2200bb.ecm
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\PlayerDataCache\Win64\Data\GI\level5\3d\3d7ae40d4d2e953585cbdc613d2200bb.iws.sse
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\GI\level5\3d\3d7ae40d4d2e953585cbdc613d2200bb.iws.sse
-    projectPath: Library\PlayerDataCache\Win64\Data\GI\level5\3d\3d7ae40d4d2e953585cbdc613d2200bb.iws.sse
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\PlayerDataCache\Win64\Data\GI\level5\3d\3d7ae40d4d2e953585cbdc613d2200bb.rgb
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\GI\level5\3d\3d7ae40d4d2e953585cbdc613d2200bb.rgb
-    projectPath: Library\PlayerDataCache\Win64\Data\GI\level5\3d\3d7ae40d4d2e953585cbdc613d2200bb.rgb
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\PlayerDataCache\Win64\Data\GI\level5\3d\3d7ae40d4d2e953585cbdc613d2200bb.rsc.sse
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\GI\level5\3d\3d7ae40d4d2e953585cbdc613d2200bb.rsc.sse
-    projectPath: Library\PlayerDataCache\Win64\Data\GI\level5\3d\3d7ae40d4d2e953585cbdc613d2200bb.rsc.sse
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\PlayerDataCache\Win64\Data\GI\level5\3d\3d7ae40d4d2e953585cbdc613d2200bb.vis
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\GI\level5\3d\3d7ae40d4d2e953585cbdc613d2200bb.vis
-    projectPath: Library\PlayerDataCache\Win64\Data\GI\level5\3d\3d7ae40d4d2e953585cbdc613d2200bb.vis
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\PlayerDataCache\Win64\Data\GI\level5\57\570cb3129d031c5612ac914a1fecc251.caw
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\GI\level5\57\570cb3129d031c5612ac914a1fecc251.caw
-    projectPath: Library\PlayerDataCache\Win64\Data\GI\level5\57\570cb3129d031c5612ac914a1fecc251.caw
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\PlayerDataCache\Win64\Data\GI\level5\57\570cb3129d031c5612ac914a1fecc251.ecm
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\GI\level5\57\570cb3129d031c5612ac914a1fecc251.ecm
-    projectPath: Library\PlayerDataCache\Win64\Data\GI\level5\57\570cb3129d031c5612ac914a1fecc251.ecm
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\PlayerDataCache\Win64\Data\GI\level5\57\570cb3129d031c5612ac914a1fecc251.iws.sse
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\GI\level5\57\570cb3129d031c5612ac914a1fecc251.iws.sse
-    projectPath: Library\PlayerDataCache\Win64\Data\GI\level5\57\570cb3129d031c5612ac914a1fecc251.iws.sse
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\PlayerDataCache\Win64\Data\GI\level5\57\570cb3129d031c5612ac914a1fecc251.rgb
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\GI\level5\57\570cb3129d031c5612ac914a1fecc251.rgb
-    projectPath: Library\PlayerDataCache\Win64\Data\GI\level5\57\570cb3129d031c5612ac914a1fecc251.rgb
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\PlayerDataCache\Win64\Data\GI\level5\57\570cb3129d031c5612ac914a1fecc251.rsc.sse
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\GI\level5\57\570cb3129d031c5612ac914a1fecc251.rsc.sse
-    projectPath: Library\PlayerDataCache\Win64\Data\GI\level5\57\570cb3129d031c5612ac914a1fecc251.rsc.sse
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\PlayerDataCache\Win64\Data\GI\level5\57\570cb3129d031c5612ac914a1fecc251.vis
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\GI\level5\57\570cb3129d031c5612ac914a1fecc251.vis
-    projectPath: Library\PlayerDataCache\Win64\Data\GI\level5\57\570cb3129d031c5612ac914a1fecc251.vis
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\PlayerDataCache\Win64\Data\GI\level5\66\66621bf4e6cc8847b6d9b57fb0ade2d0.caw
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\GI\level5\66\66621bf4e6cc8847b6d9b57fb0ade2d0.caw
-    projectPath: Library\PlayerDataCache\Win64\Data\GI\level5\66\66621bf4e6cc8847b6d9b57fb0ade2d0.caw
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\PlayerDataCache\Win64\Data\GI\level5\66\66621bf4e6cc8847b6d9b57fb0ade2d0.ecm
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\GI\level5\66\66621bf4e6cc8847b6d9b57fb0ade2d0.ecm
-    projectPath: Library\PlayerDataCache\Win64\Data\GI\level5\66\66621bf4e6cc8847b6d9b57fb0ade2d0.ecm
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\PlayerDataCache\Win64\Data\GI\level5\66\66621bf4e6cc8847b6d9b57fb0ade2d0.iws.sse
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\GI\level5\66\66621bf4e6cc8847b6d9b57fb0ade2d0.iws.sse
-    projectPath: Library\PlayerDataCache\Win64\Data\GI\level5\66\66621bf4e6cc8847b6d9b57fb0ade2d0.iws.sse
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\PlayerDataCache\Win64\Data\GI\level5\66\66621bf4e6cc8847b6d9b57fb0ade2d0.rgb
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\GI\level5\66\66621bf4e6cc8847b6d9b57fb0ade2d0.rgb
-    projectPath: Library\PlayerDataCache\Win64\Data\GI\level5\66\66621bf4e6cc8847b6d9b57fb0ade2d0.rgb
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\PlayerDataCache\Win64\Data\GI\level5\66\66621bf4e6cc8847b6d9b57fb0ade2d0.rsc.sse
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\GI\level5\66\66621bf4e6cc8847b6d9b57fb0ade2d0.rsc.sse
-    projectPath: Library\PlayerDataCache\Win64\Data\GI\level5\66\66621bf4e6cc8847b6d9b57fb0ade2d0.rsc.sse
-    originalPath: 
-    status: 5
-    staged: 0
-  - path: Library\PlayerDataCache\Win64\Data\GI\level5\66\66621bf4e6cc8847b6d9b57fb0ade2d0.vis
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\GI\level5\66\66621bf4e6cc8847b6d9b57fb0ade2d0.vis
-    projectPath: Library\PlayerDataCache\Win64\Data\GI\level5\66\66621bf4e6cc8847b6d9b57fb0ade2d0.vis
-    originalPath: 
-    status: 5
-    staged: 0
   - path: Library\PlayerDataCache\Win64\Data\globalgamemanagers
     fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\globalgamemanagers
     projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\globalgamemanagers.assets
     originalPath: 
     status: 3
     staged: 0
@@ -268,6 +258,12 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\level2
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\level2
+    projectPath: Library\PlayerDataCache\Win64\Data\level2
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Library\PlayerDataCache\Win64\Data\level3
     fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\level3
     projectPath: Library\PlayerDataCache\Win64\Data\level3
@@ -280,15 +276,15 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\PlayerDataCache\Win64\Data\level5
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\level5
-    projectPath: Library\PlayerDataCache\Win64\Data\level5
+  - path: Library\PlayerDataCache\Win64\Data\level4
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\level4
+    projectPath: Library\PlayerDataCache\Win64\Data\level4
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\PlayerDataCache\Win64\Data\level5.resS
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\level5.resS
-    projectPath: Library\PlayerDataCache\Win64\Data\level5.resS
+  - path: Library\PlayerDataCache\Win64\Data\level5
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\level5
+    projectPath: Library\PlayerDataCache\Win64\Data\level5
     originalPath: 
     status: 3
     staged: 0
@@ -310,15 +306,27 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\PlayerDataCache\Win64\Data\Resources\unity_builtin_extra
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\Resources\unity_builtin_extra
-    projectPath: Library\PlayerDataCache\Win64\Data\Resources\unity_builtin_extra
+  - path: Library\PlayerDataCache\Win64\Data\resources.assets
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\resources.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\resources.assets
     originalPath: 
     status: 3
     staged: 0
   - path: Library\PlayerDataCache\Win64\Data\sharedassets0.assets
     fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\sharedassets0.assets
     projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.assets
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets0.resource
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\sharedassets0.resource
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets0.resource
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\sharedassets1.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets1.assets
     originalPath: 
     status: 3
     staged: 0
@@ -334,9 +342,15 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\PlayerDataCache\Win64\Data\sharedassets5.assets
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\sharedassets5.assets
-    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets5.assets
+  - path: Library\PlayerDataCache\Win64\Data\sharedassets4.assets
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\Data\sharedassets4.assets
+    projectPath: Library\PlayerDataCache\Win64\Data\sharedassets4.assets
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\PlayerDataCache\Win64\ScriptLayoutHashes.txt
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\PlayerDataCache\Win64\ScriptLayoutHashes.txt
+    projectPath: Library\PlayerDataCache\Win64\ScriptLayoutHashes.txt
     originalPath: 
     status: 3
     staged: 0
@@ -412,11 +426,11 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\StateCache\Hierarchy\dc7e3b-06faaa8f67578cc4a9.json
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\StateCache\Hierarchy\dc7e3b-06faaa8f67578cc4a9.json
-    projectPath: Library\StateCache\Hierarchy\dc7e3b-06faaa8f67578cc4a9.json
+  - path: Library\StateCache\Hierarchy\dc7e3b-4d67cc2819b47cb428.json
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\StateCache\Hierarchy\dc7e3b-4d67cc2819b47cb428.json
+    projectPath: Library\StateCache\Hierarchy\dc7e3b-4d67cc2819b47cb428.json
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
   - path: Library\StateCache\Hierarchy\dc7e3b-mainStage.json
     fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\StateCache\Hierarchy\dc7e3b-mainStage.json
@@ -424,11 +438,11 @@ MonoBehaviour:
     originalPath: 
     status: 3
     staged: 0
-  - path: Library\StateCache\SceneView\a14a4e-mainStage.json
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\StateCache\SceneView\a14a4e-mainStage.json
-    projectPath: Library\StateCache\SceneView\a14a4e-mainStage.json
+  - path: Library\StateCache\SceneView\a14a4e-4d67cc2819b47cb428.json
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Library\StateCache\SceneView\a14a4e-4d67cc2819b47cb428.json
+    projectPath: Library\StateCache\SceneView\a14a4e-4d67cc2819b47cb428.json
     originalPath: 
-    status: 3
+    status: 1
     staged: 0
   - path: Temp\__Backupscenes\0.backup
     fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Temp\__Backupscenes\0.backup
@@ -472,81 +486,63 @@ MonoBehaviour:
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-174f6638a48a4e745bccb6866392df19
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Temp\UnityTempFile-174f6638a48a4e745bccb6866392df19
-    projectPath: Temp\UnityTempFile-174f6638a48a4e745bccb6866392df19
+  - path: Temp\UnityTempFile-242071af7988e2e41a68e35faec4ab5a
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Temp\UnityTempFile-242071af7988e2e41a68e35faec4ab5a
+    projectPath: Temp\UnityTempFile-242071af7988e2e41a68e35faec4ab5a
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-2d02ecca5f99fff438a132d4e5f409ca
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Temp\UnityTempFile-2d02ecca5f99fff438a132d4e5f409ca
-    projectPath: Temp\UnityTempFile-2d02ecca5f99fff438a132d4e5f409ca
+  - path: Temp\UnityTempFile-28f6f99a923f47f46893a61355046ca4
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Temp\UnityTempFile-28f6f99a923f47f46893a61355046ca4
+    projectPath: Temp\UnityTempFile-28f6f99a923f47f46893a61355046ca4
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-33dc54f6bce00ea46b586150081bbe5a
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Temp\UnityTempFile-33dc54f6bce00ea46b586150081bbe5a
-    projectPath: Temp\UnityTempFile-33dc54f6bce00ea46b586150081bbe5a
+  - path: Temp\UnityTempFile-2e0b1c7d22cd6bf4c81daf8c19ed10ce
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Temp\UnityTempFile-2e0b1c7d22cd6bf4c81daf8c19ed10ce
+    projectPath: Temp\UnityTempFile-2e0b1c7d22cd6bf4c81daf8c19ed10ce
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-3eb36a8388ff12d41a11407ef85d2982
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Temp\UnityTempFile-3eb36a8388ff12d41a11407ef85d2982
-    projectPath: Temp\UnityTempFile-3eb36a8388ff12d41a11407ef85d2982
+  - path: Temp\UnityTempFile-4bc71ec8d838a8e4c8f45e600f0348ef
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Temp\UnityTempFile-4bc71ec8d838a8e4c8f45e600f0348ef
+    projectPath: Temp\UnityTempFile-4bc71ec8d838a8e4c8f45e600f0348ef
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-60c830034910fd7418f65fd072317aff
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Temp\UnityTempFile-60c830034910fd7418f65fd072317aff
-    projectPath: Temp\UnityTempFile-60c830034910fd7418f65fd072317aff
+  - path: Temp\UnityTempFile-7d325fed19907ee46ba569ce5644b818
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Temp\UnityTempFile-7d325fed19907ee46ba569ce5644b818
+    projectPath: Temp\UnityTempFile-7d325fed19907ee46ba569ce5644b818
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-6993c5358274ed94eae0c67ae6fc2c1b
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Temp\UnityTempFile-6993c5358274ed94eae0c67ae6fc2c1b
-    projectPath: Temp\UnityTempFile-6993c5358274ed94eae0c67ae6fc2c1b
+  - path: Temp\UnityTempFile-bd4d9d0e593b97d409529765bd76ce26
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Temp\UnityTempFile-bd4d9d0e593b97d409529765bd76ce26
+    projectPath: Temp\UnityTempFile-bd4d9d0e593b97d409529765bd76ce26
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-7a743045128cad54bb146758aa3ee152
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Temp\UnityTempFile-7a743045128cad54bb146758aa3ee152
-    projectPath: Temp\UnityTempFile-7a743045128cad54bb146758aa3ee152
+  - path: Temp\UnityTempFile-e545567e97eb7024d85b8f1489f2d7af
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Temp\UnityTempFile-e545567e97eb7024d85b8f1489f2d7af
+    projectPath: Temp\UnityTempFile-e545567e97eb7024d85b8f1489f2d7af
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-aa590147e9549d84d8f606cca2dd439d
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Temp\UnityTempFile-aa590147e9549d84d8f606cca2dd439d
-    projectPath: Temp\UnityTempFile-aa590147e9549d84d8f606cca2dd439d
+  - path: Temp\UnityTempFile-e6338b2da5a23aa4abec7125e9443133
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Temp\UnityTempFile-e6338b2da5a23aa4abec7125e9443133
+    projectPath: Temp\UnityTempFile-e6338b2da5a23aa4abec7125e9443133
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-b23737d046752c247922397ae42dd8b0
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Temp\UnityTempFile-b23737d046752c247922397ae42dd8b0
-    projectPath: Temp\UnityTempFile-b23737d046752c247922397ae42dd8b0
+  - path: Temp\UnityTempFile-f33e14c0f44c2db4b9f35ab10e91ca8a
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Temp\UnityTempFile-f33e14c0f44c2db4b9f35ab10e91ca8a
+    projectPath: Temp\UnityTempFile-f33e14c0f44c2db4b9f35ab10e91ca8a
     originalPath: 
     status: 1
     staged: 0
-  - path: Temp\UnityTempFile-b6a2bbf936a00b147b7b51e8eef5d5a2
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Temp\UnityTempFile-b6a2bbf936a00b147b7b51e8eef5d5a2
-    projectPath: Temp\UnityTempFile-b6a2bbf936a00b147b7b51e8eef5d5a2
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-b8811829bf6dce8459e45d637755865d
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Temp\UnityTempFile-b8811829bf6dce8459e45d637755865d
-    projectPath: Temp\UnityTempFile-b8811829bf6dce8459e45d637755865d
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-b8d951b6d2652414fb4150a290cc3896
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Temp\UnityTempFile-b8d951b6d2652414fb4150a290cc3896
-    projectPath: Temp\UnityTempFile-b8d951b6d2652414fb4150a290cc3896
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityTempFile-c2181ef74f761e04fb1b82e76ab22b25
-    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Temp\UnityTempFile-c2181ef74f761e04fb1b82e76ab22b25
-    projectPath: Temp\UnityTempFile-c2181ef74f761e04fb1b82e76ab22b25
+  - path: Temp\UnityTempFile-fcebea0cbf37d7d44bb02919a95fac09
+    fullPath: C:\Users\olawr\Documents\Eggcellence 3D\Temp\UnityTempFile-fcebea0cbf37d7d44bb02919a95fac09
+    projectPath: Temp\UnityTempFile-fcebea0cbf37d7d44bb02919a95fac09
     originalPath: 
     status: 1
     staged: 0

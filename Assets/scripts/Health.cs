@@ -83,18 +83,4 @@ public class Health : NetworkBehaviour
     {
         FindObjectOfType<NetworkLobbyManager>().ServerReturnToLobby();
     }
-
-    private void OnCollisionEnter(Collision collision)
-    {
-        if (collision.gameObject.tag != "projectile")
-        {
-            return;
-        }
-
-        if (this != null)
-        {
-            this.takeDamage(1);
-        }
-
-    }
 }
