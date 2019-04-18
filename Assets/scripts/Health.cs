@@ -11,6 +11,7 @@ public class Health : NetworkBehaviour
     int currHealth;
     public Text info;
     bool isDead = false;
+    static bool someoneEliminated = false;
     //public GameObject player;
     // Start is called before the first frame update
     void Start()
@@ -31,14 +32,21 @@ public class Health : NetworkBehaviour
             takeDamage(100);
         }
 
-        if(DeathMatch.CheckWinner())
+    }
+
+    private void LateUpdate()
+    {
+        if (DeathMatch.CheckWinner())
         {
             if (!isDead)
             {
-                Health player = DeathMatch.getWinner();
-                player.RpcWon();
+                if (someoneEliminated)
+                {
+                    Health player = DeathMatch.getWinner();
+                    player.RpcWon();
 
-                Invoke("BackToLobby", 3f);
+                    Invoke("BackToLobby", 3f);
+                }
             }
         }
     }
@@ -59,7 +67,7 @@ public class Health : NetworkBehaviour
 
             DeathMatch.removePlayer(this);
             isDead = true;
-
+            someoneEliminated = true;
             return;
         }
     }
