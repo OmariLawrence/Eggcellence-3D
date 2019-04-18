@@ -10,6 +10,7 @@ public class Health : NetworkBehaviour
     int maxHealth = 10;
     int currHealth;
     public Text info;
+    bool isDead = false;
     //public GameObject player;
     // Start is called before the first frame update
     void Start()
@@ -25,9 +26,20 @@ public class Health : NetworkBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(SceneManager.GetActiveScene().name == "FrittataForest" || SceneManager.GetActiveScene().name == "multiplayer_matchmaking")
+        if(SceneManager.GetActiveScene().name.Contains("Lobby"))
         {
             takeDamage(100);
+        }
+
+        if(DeathMatch.CheckWinner())
+        {
+            if (!isDead)
+            {
+                Health player = DeathMatch.getWinner();
+                player.RpcWon();
+
+                Invoke("BackToLobby", 3f);
+            }
         }
     }
 
@@ -45,13 +57,8 @@ public class Health : NetworkBehaviour
 
             RpcDied();
 
-            if (DeathMatch.removePlayerAndCheckWinner(this))
-            {
-                Health player = DeathMatch.getWinner();
-                player.RpcWon();
-
-                Invoke("BackToLobby", 3f);
-            }
+            DeathMatch.removePlayer(this);
+            isDead = true;
 
             return;
         }
@@ -60,7 +67,7 @@ public class Health : NetworkBehaviour
     [ClientRpc]
     void RpcDied()
     {
-        info = FindObjectOfType<Text>();
+        //info = FindObjectOfType<Text>();
         if (isLocalPlayer)
         {
             info.text = "You Lose";

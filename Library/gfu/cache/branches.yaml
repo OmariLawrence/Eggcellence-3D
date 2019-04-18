@@ -13,13 +13,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-04-16T15:55:02.343-03:00
-  initializedAtString: 2019-04-16T15:55:02.191-03:00
+  lastUpdatedAtString: 2019-04-18T03:24:06.048-03:00
+  initializedAtString: 2019-04-18T03:24:06.006-03:00
   localBranches:
+  - name: help
+    tracking: origin/help
   - name: master
     tracking: origin/master
   remoteBranches:
+  - name: origin/help
+    tracking: '[None]'
   - name: origin/master
+    tracking: '[None]'
+  - name: origin/Randell
     tracking: '[None]'
   remotes:
   - name: origin
@@ -31,8 +37,14 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
+    - help
     - master
     values:
+    - name: help
+      remote:
+        name: origin
+        url: https://github.com/OmariLawrence/Eggcellence-3D.git
+      trackingBranch: help
     - name: master
       remote:
         name: origin
@@ -43,10 +55,22 @@ MonoBehaviour:
     - origin
     subKeys:
     - Values:
+      - help
       - master
+      - Randell
     subKeyValues:
     - Values:
+      - name: help
+        remote:
+          name: origin
+          url: https://github.com/OmariLawrence/Eggcellence-3D.git
+        trackingBranch: 
       - name: master
+        remote:
+          name: origin
+          url: https://github.com/OmariLawrence/Eggcellence-3D.git
+        trackingBranch: 
+      - name: Randell
         remote:
           name: origin
           url: https://github.com/OmariLawrence/Eggcellence-3D.git

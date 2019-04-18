@@ -12,16 +12,20 @@ public class DeathMatch : NetworkBehaviour
         players.Add(h);
     }
 
-    public static bool removePlayerAndCheckWinner(Health h)
+    public static bool CheckWinner()
     {
-        players.Remove(h);
-
-        if(players.Count == 1)
+        if (players.Count == 1)
         {
             return true;
         }
 
         return false;
+    }
+
+    public static void removePlayer(Health h)
+    {
+        players.Remove(h);
+
     }
 
     public static Health getWinner()

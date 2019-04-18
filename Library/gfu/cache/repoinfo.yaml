@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2019-04-16T15:55:00.999-03:00
-  initializedAtString: 2019-04-16T15:55:00.999-03:00
+  lastUpdatedAtString: 2019-04-18T03:26:52.899-03:00
+  initializedAtString: 2019-04-18T02:50:06.224-03:00
   currentGitRemote:
     name: origin
     url: https://github.com/OmariLawrence/Eggcellence-3D.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: master
-    tracking: origin/master
+    name: Master
+    tracking: 
   currentConfigBranch:
-    name: master
+    name: Master
     remote:
-      name: origin
-      url: https://github.com/OmariLawrence/Eggcellence-3D.git
-    trackingBranch: master
+      name: 
+      url: 
+    trackingBranch: 
   currentConfigRemote:
     name: origin
     url: https://github.com/OmariLawrence/Eggcellence-3D.git
